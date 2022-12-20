@@ -1,46 +1,1306 @@
 {
-    "status": "ok",
-    "totalResults": 4,
-    "articles": [
-      {
-        "source": {"id": "news24", "name": "News24"},
-        "author": "Sibusiso Mjikeliso",
-        "title": "Cricket SA wants to 'get to the bottom' of Nkwe resignation concerns, says CEO | Sport",
-        "description": "Acting Cricket South Africa CEO Pholetsi Moseki says the board is concerned about the issues former Proteas assistant coach Enoch Nkwe raised in his resignation.",
-        "url": "https://www.news24.com/sport/Cricket/Proteas/cricket-sa-wants-to-get-to-the-bottom-of-nkwe-resignation-concerns-says-ceo-20210826",
-        "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/10743/97d776dc91734e98906c0e1b7f3b1afa.jpg",
-        "publishedAt": "2021-08-26T11:40:16+00:00",
-        "content": "<ul><li>Cricket South Africa has committed to \"getting to the bottom\" of Enoch Nkwe's sudden resignation as Proteas assistant coach. </li><li>Nkwe voiced concerns with the current culture and working… [+3497 chars]"
+  "status": "ok",
+  "totalResults": 9787,
+  "articles": [
+  {
+  "source": {
+        "id": "abc-news",
+        "name": "ABC News"
       },
-      {
-        "source": {"id": "abc-news-au", "name": "ABC News (AU)"},
-        "author": "ABC News",
-        "title": "England cricket great Ted Dexter dies aged 86",
-        "description": "The former England captain, nicknamed \"Lord Ted\", is fondly remembered as a giant of the game and one of his country's greatest players.",
-        "url": "http://www.abc.net.au/news/2021-08-26/england-cricket-great-ted-dexter-dies-aged-86/100411276",
-        "urlToImage": "https://live-production.wcms.abc-cdn.net.au/1006c7ecf34ec0935eef2aade5017711?impolicy=wcms_crop_resize&cropH=2815&cropW=5004&xPos=0&yPos=223&width=862&height=485",
-        "publishedAt": "2021-08-26T09:07:52Z",
-        "content": "Former England captain Ted Dexter has died aged 86 following a recent illness.\r\n<ul><li>Dexter played 62 Tests for England and was captain on 30 occasions</li><li>He was inducted into the ICC Hall of… [+1746 chars]"
+      "author": "MATT O'BRIEN AP Technology Writer",
+      "title": "Elon Musk Twitter poll ends with users seeking his departure",
+      "description": "More than half of 17.5 million users who responded to a Twitter poll created by billionaire Elon Musk over whether he should step down as head of the company had voted yes by the time the poll closed",
+      "url": "https://abcnews.go.com/Business/wireStory/elon-musk-twitter-poll-ends-users-seeking-departure-95542732",
+      "urlToImage": "https://s.abcnews.com/images/Technology/WireAP_31690c9312194fb9af749468f159787d_16x9_992.jpg",
+      "publishedAt": "2022-12-19T15:35:22Z",
+      "content": "Millions of Twitter users asked Elon Musk to step down as head of Twitter in a poll on the platform that the billionaire had created and promised to abide by. \r\nWhen the poll closed Monday, however, … [+6544 chars]"
+    },
+  {
+  "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
       },
-      {
-        "source": {"id": "espn-cric-info", "name": "ESPN Cric Info"},
-        "author": null,
-        "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
-        "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
-        "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
-        "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
-        "publishedAt": "2020-04-27T11:41:47Z",
-        "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+      "author": "Jon Brodkin",
+      "title": "Musk polls Twitter users on whether he should be CEO—57.5% want him to quit",
+      "description": "\"Should I step down as head of Twitter? I will abide by the results of this poll.\"",
+      "url": "https://arstechnica.com/tech-policy/2022/12/musk-polls-twitter-users-on-whether-he-should-be-ceo-57-5-want-him-to-quit/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/Elon-Musk-Twitter-Bust-760x380.jpg",
+      "publishedAt": "2022-12-19T15:33:07Z",
+      "content": "10 with 0 posters participating\r\nElon Musk polled Twitter users yesterday on whether he should remain as the company's CEO and claimed he would abide by the results. The poll concluded with 17.5 mill… [+2457 chars]"
+    },
+  {
+  "source": {
+        "id": null,
+        "name": "Motley Fool"
       },
-      {
-        "source": {"id": "espn-cric-info", "name": "ESPN Cric Info"},
-        "author": null,
-        "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
-        "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
-        "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
-        "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
-        "publishedAt": "2020-03-30T15:26:05Z",
-        "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
-      }
-    ]
-  }
+      "author": "newsfeedback@fool.com (Dan Caplinger)",
+      "title": "Tesla's Bouncing, but This Nasdaq Stock Tripled Monday Morning",
+      "description": "Good news can come in different forms.",
+      "url": "https://www.fool.com/investing/2022/12/19/teslas-bouncing-but-this-nasdaq-stock-tripled-mond/",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/713533/clinical-trial-gettyimages-1175270464.jpg",
+      "publishedAt": "2022-12-19T15:32:16Z",
+      "content": "The stock market has been on edge over the past several days, and Monday didn't seem to bring a lot of clarity in a difficult economy. The Nasdaq Composite (^IXIC -0.56%) kept declining shortly after… [+3429 chars]"
+    },
+  {
+  "source": {
+        "id": null,
+        "name": "Jalopnik"
+      },
+      "author": "Owen Bellwood",
+      "title": "Pepsi’s Tesla Semis Will Hit The Road in 2023: Report",
+      "description": "Tesla’s long-awaited electric Semi trucks may finally get their debut in 2023 when Pepsi begins rolling its fleet out across the U.S., a new report found that electric cars cost “almost” the same as their gas-powered counterparts, and NASA scraps a mission to…",
+      "url": "https://jalopnik.com/pepsi-s-tesla-semis-will-hit-the-road-in-2023-report-1849909964",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/b54f4ebfa670d3216683fa783a012ed4.jpg",
+      "publishedAt": "2022-12-19T15:30:00Z",
+      "content": "Teslas long-awaited electric Semi trucks may finally get their debut in 2023 when Pepsi begins rolling its fleet out across the U.S., a new report found that electric cars cost almost the same as the… [+7896 chars]"
+    },
+  {
+  "source": {
+        "id": null,
+        "name": "Marketscreener.com"
+      },
+      "author": "MarketScreener",
+      "title": "Trending : Tesla Shares Inching Higher After Musk's Twitter Poll",
+      "description": "(marketscreener.com) \n 10:14 ET -- Tesla Inc. is one of the most talked about companies in the U.S. across all news items in the last 12 hours, according to Factiva data. Tesla shares were up slightly Monday on signs Elon Musk will stop running Twitter, poten…",
+      "url": "https://www.marketscreener.com/quote/stock/TESLA-INC-6344549/news/Trending-Tesla-Shares-Inching-Higher-After-Musk-s-Twitter-Poll-42579885/?utm_medium=RSS&utm_content=20221219",
+      "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdgris.png",
+      "publishedAt": "2022-12-19T15:29:00Z",
+      "content": "10:14 ET -- Tesla Inc. is one of the most talked about companies in the U.S. across all news items in the last 12 hours, according to Factiva data. Tesla shares were up slightly Monday on signs Elon … [+395 chars]"
+    },
+  {
+  "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "financialpost.com",
+      "title": "U.S. senator Warren questions Musk purchase of Twitter",
+      "description": "WASHINGTON — Democratic Senator Elizabeth Warren on Monday raised concerns that Tesla Inc’s board of directors has failed to meet its legal responsibility to protect the electric vehicle maker in the aftermath of company Chief Executive Elon Musk’s acquisitio…",
+      "url": "https://biztoc.com/x/55babba7970495ce",
+      "urlToImage": "https://c.biztoc.com/p/55babba7970495ce/og.webp",
+      "publishedAt": "2022-12-19T15:26:15Z",
+      "content": "WASHINGTON Democratic Senator Elizabeth Warren on Monday raised concerns that Tesla Incs board of directors has failed to meet its legal responsibility to protect the electric vehicle maker in the af… [+506 chars]"
+    },
+  {
+  "source": {
+        "id": null,
+        "name": "PBS"
+      },
+      "author": "Matt O'Brien, Associated Press",
+      "title": "Twitter poll closes, majority of users vote for Musk to step down as CEO",
+      "description": "More than half of 17.5 million users who responded to a Twitter poll created by billionaire Elon Musk over whether he should step down as head of the company had voted yes by the time the poll closed.",
+      "url": "https://www.pbs.org/newshour/nation/twitter-poll-closes-majority-of-users-vote-for-musk-to-step-down-as-ceo",
+      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2022/10/2022-03-22T143705Z_197660797_RC2Q7T9GTVQ6_RTRMADP_3_TESLA-GERMANY-1024x686.jpg",
+      "publishedAt": "2022-12-19T15:24:43Z",
+      "content": "Millions of Twitter users asked Elon Musk to step down as head of Twitter in a poll on the platform that the billionaire had created and promised to abide by.\r\nWhen the poll closed Monday, however, i… [+6768 chars]"
+    },
+  {
+  "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "hchowdhury@insider.com (Hasan Chowdhury)",
+      "title": "Elon had to choose between Twitter and Tesla. He's choosing Tesla.",
+      "description": "The billionaire has faced questions from Tesla shareholders over where his priorities lie as the company's stock has sunk since he took over Twitter.",
+      "url": "https://www.businessinsider.com/elon-twitter-ceo-stepping-down-tesla-stock-2022-12",
+      "urlToImage": "https://i.insider.com/63a0612f0675db0018b36266?width=1200&format=jpeg",
+      "publishedAt": "2022-12-19T15:22:08Z",
+      "content": "Perhaps he was caught up in the euphoria of it all. But after spending the World Cup final in the stands of Qatar's Lusail Stadium on Sunday with one Jared Kushner and a gang of Gulf sheiks, Elon Mus… [+5655 chars]"
+    },
+  {
+  "source": {
+        "id": null,
+        "name": "The New Republic"
+      },
+      "author": "Tori Otten",
+      "title": "Elon Musk’s Twitter Poll Results Are In: The People Don’t Want Him as CEO",
+      "description": "Since taking over Twitter, Elon Musk has made a habit of governing by poll. But he may wish he had held off on the latest one.\r\nMusk asked his followers Sunday night if he should step down as head of Twitter, promising to “abide by the results” of the poll. T…",
+      "url": "https://newrepublic.com/post/169620/elon-musk-twitter-poll-results-people-dont-want-him-ceo",
+      "urlToImage": "https://images.newrepublic.com/c5ad44aade8277798c962d6bb66c1538ce900c4a.jpeg?w=1109&h=577&crop=faces&fit=crop&fm=jpg",
+      "publishedAt": "2022-12-19T15:20:25Z",
+      "content": "The discordance of the noble music with Trumps narration feels almost self-aware. As if Trump recognizes how unimaginably dull this venture is, or how deeply pathetic it is to be running for presiden… [+1104 chars]"
+    },
+  {
+  "source": {
+        "id": null,
+        "name": "Marketscreener.com"
+      },
+      "author": "MarketScreener",
+      "title": "It's still all about the pivot",
+      "description": "(marketscreener.com) Equity markets have had a second week of decline, which brings them back around their mid-November level. There was a 2.1% drop for the S&P500, -2.8% for the Nasdaq and -1.7% for the Dow Jones. The main driver is still the pivot in the US…",
+      "url": "https://www.marketscreener.com/news/latest/It-s-still-all-about-the-pivot--42579811/?utm_medium=RSS&utm_content=20221219",
+      "urlToImage": "https://img.zonebourse.com/reuters/2020-08/2020-08-28T111501Z_1_LYNXMPEG7R0VR_RTROPTP_3_USA-FED-JACKSONHOLE-FRAMEWORK.JPG",
+      "publishedAt": "2022-12-19T15:20:22Z",
+      "content": "Between mid-October and the beginning of December, thanks to a series of favorable indicators, they were convinced that the rate peak would be below 5% and that the pivot would take place in May. The… [+4781 chars]"
+    },
+  {
+  "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "billboard.com",
+      "title": "Should Elon Musk Step Down as CEO? Twitter Poll Caps Another Tumultuous Day",
+      "description": "Millions of Twitter users asked Elon Musk to step down as head of Twitter in a poll on the platform that the billionaire had created and promised to abide by. When the poll closed Monday, however, it wasn’t clear if there would be a new leader for the social …",
+      "url": "https://biztoc.com/x/0287be7760f556f8",
+      "urlToImage": "https://c.biztoc.com/p/0287be7760f556f8/og.webp",
+      "publishedAt": "2022-12-19T15:20:10Z",
+      "content": "Millions of Twitter users asked Elon Musk to step down as head of Twitter in a poll on the platform that the billionaire had created and promised to abide by.\r\nWhen the poll closed Monday, however, i… [+468 chars]"
+    },
+  {
+  "source": {
+        "id": null,
+        "name": "The Boston Globe"
+      },
+      "author": "Anissa Gardizy",
+      "title": "Elizabeth Warren sends letter to Tesla’s board, raising concerns about Elon Musk",
+      "description": "The Massachusetts Senator is asking Tesla’s board for answers to a dozen questions by Jan. 3.",
+      "url": "https://www.bostonglobe.com/2022/12/19/business/elizabeth-warren-sends-letter-teslas-board-raising-concerns-about-elon-musk/",
+      "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/BfHKqxSSEnWWTJfjUXSRwIc2OuI=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/RCB72FYS2JWK4U4J6TQ4BRENG4.jpg",
+      "publishedAt": "2022-12-19T15:20:08Z",
+      "content": "Massachusetts Senator Elizabeth Warren wants to know whether Elon Musk is still fit to run Tesla, following his takeover of social media company Twitter.\r\nIn a letter sent Sunday night to Robyn Denho… [+2040 chars]"
+    },
+  {
+  "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Lauren Feiner",
+      "title": "Sen. Warren warns Tesla board that Musk may have failed to meet his legal duties due to Twitter takeover",
+      "description": "Warren raised questions about alleged misappropriation of Tesla resources and conflicts of interest resulting from Musk's purchase of Twitter.",
+      "url": "https://www.cnbc.com/2022/12/19/sen-warren-warns-tesla-board-about-musk-conflicts-of-interest-with-twitter.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106948787-16328481162021-09-28t164745z_1785624998_rc24zp9pl3sj_rtrmadp_0_health-coronavirus-powell-yellen.jpeg?v=1671463217&w=1920&h=1080",
+      "publishedAt": "2022-12-19T15:20:00Z",
+      "content": "Sen. Elizabeth Warren, D-Mass., wrote to the chair of Tesla's board Robyn Denholm expressing concern that CEO Elon Musk has failed to meet his legal duties since buying Twitter for $44 billion.\r\n\"One… [+3209 chars]"
+    },
+  {
+  "source": {
+        "id": null,
+        "name": "Thefly.com"
+      },
+      "author": null,
+      "title": "Street Wrap: Today's Top 15 Upgrades, Downgrades, Initiations",
+      "description": "See the rest of the story here.\n\nthefly.com provides the latest financial news as it breaks. Known as a leader in market intelligence, The Fly's real-time, streaming news feed keeps individual investors, professional money managers, active traders, and corpor…",
+      "url": "https://thefly.com/permalinks/entry.php/id3635185/T;LHX;AJRD;MAXR;VZ;ENPH;MRN;GKOS;PNR;TSLA;VRTX;MAIN;VRDN;HZNP;AMEH;DZSI;VTYX-Street-Wrap-Todays-Top--Upgrades-Downgrades-Initiations",
+      "urlToImage": "https://image.thefly.com/catalog/201811/img_112.jpg",
+      "publishedAt": "2022-12-19T15:18:27Z",
+      "content": "Institutional investors and professional traders rely on The Fly to learn which companies the best analysts on Wall Street are saying to buy and sell. \r\nResearch analysts at Wall Street's largest ban… [+5560 chars]"
+    },
+  {
+  "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "prosen@insider.com (Phil Rosen)",
+      "title": "Tesla stock is stuck in its worst sell-off since the company went public in 2010",
+      "description": "As Elon Musk remains embroiled in Twitter antics, investors are dumping Tesla stock, which has shed about 62% since its high in November 2021.",
+      "url": "https://markets.businessinsider.com/news/stocks/tesla-stock-elon-musk-worst-sell-off-public-ev-twitter-2022-12",
+      "urlToImage": "https://i.insider.com/63a070760675db0018b36390?width=1200&format=jpeg",
+      "publishedAt": "2022-12-19T15:12:59Z",
+      "content": "While much of Elon Musk's attention seems to be wrapped up in Twitter as of late, Tesla stock is enduring its worst sell-off since it debuted in public markets in 2010. \r\nShares of the electric-vehic… [+1856 chars]"
+    },
+  {
+  "source": {
+        "id": null,
+        "name": "Mirror Online"
+      },
+      "author": "mirrornews@mirror.co.uk (Liam Buckler)",
+      "title": "Elon Musk caught rubbing shoulders with notorious 'corrupt' Russian propagandist",
+      "description": "Tesla billionaire Elon Musk was in Qatar watching the World Cup final yesterday when he posed for selfies with alleged Russian propagandist Nailya Asker-Zade during the game",
+      "url": "https://www.mirror.co.uk/news/us-news/elon-musk-caught-rubbing-shoulders-28770636",
+      "urlToImage": "https://i2-prod.mirror.co.uk/incoming/article28770853.ece/ALTERNATES/s1200/1_THP_CHP_191222Slug_544JPG.jpg",
+      "publishedAt": "2022-12-19T15:09:54Z",
+      "content": "Twitter boss Elon Musk has been caught rubbing shoulders with a 'corrupt' Russian propagandist, it is claimed. \r\n The Tesla billionaire was in Qatar watching the World Cup final yesterday when he pos… [+2479 chars]"
+    },
+  {
+  "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "apnews.com",
+      "title": "Elon Musk Twitter poll ends with users seeking his departure - The Associated Press",
+      "description": "FILE - Tesla and SpaceX Chief Executive Officer Elon Musk speaks at the SATELLITE Conference and Exhibition in Washington, Monday, March 9, 2020. Twitter on Thursday, Dec. 16, 2022 suspended the accounts of journalists who cover the social media platform and …",
+      "url": "https://biztoc.com/x/f3c2b03713f257fb",
+      "urlToImage": "https://c.biztoc.com/p/f3c2b03713f257fb/og.webp",
+      "publishedAt": "2022-12-19T15:08:27Z",
+      "content": "FILE - Tesla and SpaceX Chief Executive Officer Elon Musk speaks at the SATELLITE Conference and Exhibition in Washington, Monday, March 9, 2020. Twitter on Thursday, Dec. 16, 2022 suspended the acco… [+453 chars]"
+    },
+  {
+  "source": {
+        "id": null,
+        "name": "BuzzFeed News"
+      },
+      "author": "Tom Warren",
+      "title": "Elon Musk Ran A Twitter Poll On Whether He Should Step Down As The Platform's CEO. The Resounding Answer: Yes.",
+      "description": "The billionaire had said he would abide by the results.View Entire Post ›",
+      "url": "https://www.buzzfeednews.com/article/tomwarren/elon-musk-ceo-twitter-poll-results",
+      "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2022-12/19/14/campaign_images/4c08c376d8d2/elon-musk-ran-a-twitter-poll-on-whether-he-should-3-4416-1671461663-8_dblbig.jpg",
+      "publishedAt": "2022-12-19T15:07:56Z",
+      "content": "Responding to another user, Musk said, The question is not finding a CEO, the question is finding a CEO who can keep Twitter alive.\r\nIf Musk stands down, it will mark the end of a tumultuous and dama… [+1137 chars]"
+    },
+  {
+  "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Reuters",
+      "title": "Tesla may announce $800 mln to $1 bln in Mexico plant in coming days - report",
+      "description": "Electric carmaker Tesla <a href=\"https://www.reuters.com/companies/TSLA.O\" target=\"_blank\">(TSLA.O)</a> could announce the construction of a \"Gigafactory\" in the northern Mexican state of Nuevo Leon as soon as Friday, with an initial investment of between $80…",
+      "url": "https://www.reuters.com/business/autos-transportation/tesla-may-announce-mexico-plant-coming-days-report-2022-12-19/",
+      "urlToImage": "https://www.reuters.com/resizer/3dPvByvWTkZOOThWUObMrZSKhTc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/6ZDD4ESNHBKJFD2HHQ3FZRZSCM.jpg",
+      "publishedAt": "2022-12-19T15:07:38Z",
+      "content": "MEXICO CITY, Dec 19 (Reuters) - Electric carmaker Tesla (TSLA.O) could announce the construction of a \"Gigafactory\" in the northern Mexican state of Nuevo Leon as soon as Friday, with an initial inve… [+1289 chars]"
+    },
+  {
+  "source": {
+        "id": null,
+        "name": "Marketscreener.com"
+      },
+      "author": "MarketScreener",
+      "title": "U.S. senator Warren questions Musk purchase of Twitter",
+      "description": "(marketscreener.com) Democratic Senator\nElizabeth Warren on Monday raised concerns that Tesla Inc's\nboard of directors has failed to meet its legal\nresponsibility to protect the electric vehicle maker in the\naftermath of company Chief Executive Elon Musk's ac…",
+      "url": "https://www.marketscreener.com/quote/stock/TESLA-INC-6344549/news/U-S-senator-Warren-questions-Musk-purchase-of-Twitter-42579744/?utm_medium=RSS&utm_content=20221219",
+      "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+      "publishedAt": "2022-12-19T15:05:17Z",
+      "content": "WASHINGTON, Dec 19 (Reuters) - Democratic Senator\r\nElizabeth Warren on Monday raised concerns that Tesla Inc's\r\nboard of directors has failed to meet its legal\r\nresponsibility to protect the electric… [+2332 chars]"
+    },
+  {
+  "source": {
+        "id": null,
+        "name": "Ritholtz.com"
+      },
+      "author": "Barry Ritholtz",
+      "title": "Get Yourself Some “No Men”",
+      "description": "What happens to people who become so powerful, wealthy, and influential that no one is willing to tell them they are wrong? It’s a historical problem that has existed for as long as individuals have achieved great success. Pardon the sexism in the phrase “Yes…",
+      "url": "https://ritholtz.com/2022/12/no-men/",
+      "urlToImage": "https://ritholtz.com/wp-content/uploads/2022/12/Screen-Shot-2022-12-19-at-6.51.35-AM.png",
+      "publishedAt": "2022-12-19T15:00:13Z",
+      "content": "What happens to people who become so powerful, wealthy, and influential that no one is willing to tell them they are wrong? It’s a historical problem that has existed for as long as individuals have … [+6482 chars]"
+    },
+  {
+  "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Jennifer Rubin",
+      "title": "D.C. area antisemitic attacks reflect scourge of online hate speech",
+      "description": "Failure to moderate commentary on social-media platforms has ugly consequences.",
+      "url": "https://www.washingtonpost.com/opinions/2022/12/19/antisemitic-attacks-dc-social-media-hate-speech/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/V6X42NSWJUI63LELBC57VMOFUU.jpg&w=1440",
+      "publishedAt": "2022-12-19T15:00:00Z",
+      "content": "Comment on this story\r\nA spate of antisemitic vandalism in the D.C. area this weekend underscores the pandemic of hate that American Jews now experience. Moreover, it pointed to the consequences of r… [+4088 chars]"
+    },
+  {
+  "source": {
+        "id": "politico",
+        "name": "Politico"
+      },
+      "author": "By Alex Daugherty",
+      "title": "Money train is leaving the station",
+      "description": "There are a number of transportation-related priorities that could end up in the final major legislation of this Congress.",
+      "url": "https://www.politico.com/newsletters/weekly-transportation/2022/12/19/money-train-is-leaving-the-station-00074493",
+      "urlToImage": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+      "publishedAt": "2022-12-19T15:00:00Z",
+      "content": "With help from Oriana Pawlyk and Tanya Snyder\r\nQuick fix\r\nCongress is expected to debate a year-end spending bill this week,and theres a slew of transportation-related items currently up in the air.\r… [+11620 chars]"
+    },
+  {
+  "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "fastcompany.com",
+      "title": "Tesla stock rises as Twitter users vote Elon Musk off the island",
+      "description": "If Elon Musk was looking for a quick way to temporarily lift Tesla stock out of its months-long doldrums, he may have found it. Shares of the electric vehicle company rose slightly in pre-market trading on Monday after a the final results of a Twitter poll sh…",
+      "url": "https://biztoc.com/x/010712eb234de389",
+      "urlToImage": "https://c.biztoc.com/p/010712eb234de389/og.webp",
+      "publishedAt": "2022-12-19T14:58:09Z",
+      "content": "If Elon Musk was looking for a quick way to temporarily lift Tesla stock out of its months-long doldrums, he may have found it.\r\nShares of the electric vehicle company rose slightly in pre-market tra… [+402 chars]"
+    },
+  {
+  "source": {
+        "id": null,
+        "name": "The Denver Post"
+      },
+      "author": "The Associated Press",
+      "title": "Elon Musk Twitter poll ends with users seeking his departure",
+      "description": "More than half of 17.5 million users who responded to a Twitter poll created by billionaire Elon Musk over whether he should step down as head of the company had voted yes by the time the poll closed. There was no immediate announcement from Twitter, or Musk,…",
+      "url": "https://www.denverpost.com/2022/12/19/elon-musk-twitter-poll-ends-with-users-seeking-his-departure-2/",
+      "urlToImage": "https://www.denverpost.com/wp-content/uploads/2022/12/Twitter-Musk-Lorenz_Ban_89218.jpg?w=1024&h=682",
+      "publishedAt": "2022-12-19T14:57:06Z",
+      "content": "By MATT O’BRIEN (AP Technology Writer)\r\nMillions of Twitter users asked Elon Musk to step down as head of Twitter in a poll on the platform that the billionaire had created and promised to abide by. … [+6614 chars]"
+    },
+  {
+  "source": {
+        "id": null,
+        "name": "Boston Herald"
+      },
+      "author": "Associated Press",
+      "title": "Elon Musk Twitter poll ends with users seeking his departure",
+      "description": "More than half of 17.5 million users who responded to a Twitter poll created by billionaire Elon Musk over whether he should step down as head of the company had voted yes by the time the poll closed.",
+      "url": "https://www.bostonherald.com/2022/12/19/elon-musk-twitter-poll-ends-with-users-seeking-his-departure-2/",
+      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2022/12/AP22313157516739.jpg?w=1024&h=683",
+      "publishedAt": "2022-12-19T14:57:06Z",
+      "content": "By MATT O’BRIEN (AP Technology Writer)\r\nMillions of Twitter users asked Elon Musk to step down as head of Twitter in a poll on the platform that the billionaire had created and promised to abide by. … [+6614 chars]"
+    },
+  {
+  "source": {
+        "id": null,
+        "name": "FOX13 Memphis"
+      },
+      "author": "MATT O'BRIEN",
+      "title": "Elon Musk Twitter poll ends with users seeking his departure",
+      "description": "More than half of 17.5 million users who responded to a Twitter poll created by billionaire Elon Musk over whether he should step down as head of the company had voted yes by the time the poll closed",
+      "url": "https://www.fox13memphis.com/news/elon-musk-twitter/EURLVHQQI3QM22WXJVKXAD3GQQ/",
+      "urlToImage": "https://cmg-cmg-tv-10060-prod.cdn.arcpublishing.com/resizer/aP8b4YmaX3sMzplC8Gb9QBhA_yQ=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/WBZ4NKJFSBO4CT3MC42KT5ET3Q.jpg",
+      "publishedAt": "2022-12-19T14:55:43Z",
+      "content": "Millions of Twitter users asked Elon Musk to step down as head of Twitter in a poll on the platform that the billionaire had created and promised to abide by.\r\nWhen the poll closed Monday, however, i… [+6682 chars]"
+    },
+  {
+  "source": {
+        "id": null,
+        "name": "KOKI FOX 23"
+      },
+      "author": "MATT O'BRIEN",
+      "title": "Elon Musk Twitter poll ends with users seeking his departure",
+      "description": "More than half of 17.5 million users who responded to a Twitter poll created by billionaire Elon Musk over whether he should step down as head of the company had voted yes by the time the poll closed",
+      "url": "https://www.fox23.com/news/elon-musk-twitter/EURLVHQQI3QM22WXJVKXAD3GQQ/",
+      "urlToImage": "https://cmg-cmg-tv-10100-prod.cdn.arcpublishing.com/resizer/aP8b4YmaX3sMzplC8Gb9QBhA_yQ=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/WBZ4NKJFSBO4CT3MC42KT5ET3Q.jpg",
+      "publishedAt": "2022-12-19T14:55:43Z",
+      "content": "Millions of Twitter users asked Elon Musk to step down as head of Twitter in a poll on the platform that the billionaire had created and promised to abide by.\r\nWhen the poll closed Monday, however, i… [+6683 chars]"
+    },
+  {
+  "source": {
+        "id": null,
+        "name": "Minneapolis Star Tribune"
+      },
+      "author": "MATT O'BRIEN",
+      "title": "Elon Musk Twitter poll ends with users seeking his departure",
+      "description": "Millions of Twitter users asked Elon Musk to step down as head of Twitter in a poll on the platform that the billionaire had created and promised to abide by.",
+      "url": "https://www.startribune.com/elon-musk-twitter-poll-ends-with-users-seeking-his-departure/600236937/",
+      "urlToImage": "https://chorus.stimg.co/24262178/merlin_69274734.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces",
+      "publishedAt": "2022-12-19T14:55:02Z",
+      "content": "Millions of Twitter users asked Elon Musk to step down as head of Twitter in a poll on the platform that the billionaire had created and promised to abide by.\r\nWhen the poll closed Monday, however, i… [+6554 chars]"
+    },
+  {
+  "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "financialpost.com",
+      "title": "Elon Musk Twitter poll shows majority want him to step down as chief",
+      "description": "Twitter users voted in a poll for Elon Musk to step down as chief executive of the social media platform, in a backlash against the billionaire less than two months after he took over. We apologize, but this video has failed to load. tap here to see other vid…",
+      "url": "https://biztoc.com/x/cde6b7f68ca140a5",
+      "urlToImage": "https://c.biztoc.com/p/cde6b7f68ca140a5/og.webp",
+      "publishedAt": "2022-12-19T14:53:43Z",
+      "content": "Twitter users voted in a poll for Elon Musk to step down as chief executive of the social media platform, in a backlash against the billionaire less than two months after he took over. We apologize, … [+461 chars]"
+    },
+  {
+  "source": {
+        "id": "financial-post",
+        "name": "Financial Post"
+      },
+      "author": "Reuters",
+      "title": "Elon Musk Twitter poll shows majority want him to step down as chief - Financial Post",
+      "description": "Twitter users voted in a poll for Elon Musk to step down as chief executive of the social media platform, in a backlash against the billionaire less than two…",
+      "url": "https://financialpost.com/pmn/business-pmn/elon-musk-twitter-poll-shows-majority-want-him-to-step-down-as-chief",
+      "urlToImage": null,
+      "publishedAt": "2022-12-19T14:47:57Z",
+      "content": "Article content\r\nTwitter users voted in a poll for Elon Musk to step down as chief executive of the social media platform, in a backlash against the billionaire less than two months after he took ove… [+5205 chars]"
+    },
+  {
+  "source": {
+        "id": null,
+        "name": "PRNewswire"
+      },
+      "author": null,
+      "title": "Global Light Vehicle Markets 2021-2022 & 2027 with Focus on Premium Vehicles - Reshaping Premium Vehicles as Per Market's Preference and Upsurge in Use of Electric Vehicles",
+      "description": "DUBLIN, Dec. 19, 2022 /PRNewswire/ -- The \"Global Light Vehicle Market with Focus on Premium Segment: Analysis By Vehicle Type, By Fuel Type, By Region Size and Trends with Impact of COVID-19 and Forecast up to 2027\" report has been added to ResearchAndMarket…",
+      "url": "https://www.prnewswire.com/news-releases/global-light-vehicle-markets-2021-2022--2027-with-focus-on-premium-vehicles---reshaping-premium-vehicles-as-per-markets-preference-and-upsurge-in-use-of-electric-vehicles-301706150.html",
+      "urlToImage": "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook",
+      "publishedAt": "2022-12-19T14:45:00Z",
+      "content": "DUBLIN, Dec. 19, 2022 /PRNewswire/ -- The \"Global Light Vehicle Market with Focus on Premium Segment: Analysis By Vehicle Type, By Fuel Type, By Region Size and Trends with Impact of COVID-19 and For… [+8308 chars]"
+    },
+  {
+  "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "PR Newswire",
+      "title": "Global Light Vehicle Markets 2021-2022 & 2027 with Focus on Premium Vehicles - Reshaping Premium Vehicles as Per Market's Preference and Upsurge in Use of Electric Vehicles",
+      "description": "The \"Global Light Vehicle Market with Focus on Premium Segment: Analysis By Vehicle Type, By Fuel Type, By Region Size and Trends with Impact of COVID-19 and...",
+      "url": "https://finance.yahoo.com/news/global-light-vehicle-markets-2021-144500322.html",
+      "urlToImage": "https://media.zenfs.com/en/prnewswire.com/e75ef6f3096d7cb6f5dd43ba82eca2fe",
+      "publishedAt": "2022-12-19T14:45:00Z",
+      "content": "DUBLIN, Dec. 19, 2022 /PRNewswire/ -- The \"Global Light Vehicle Market with Focus on Premium Segment: Analysis By Vehicle Type, By Fuel Type, By Region Size and Trends with Impact of COVID-19 and For… [+8646 chars]"
+    },
+  {
+  "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "investing.com",
+      "title": "U.S. senator questions Tesla board chair over Musk purchase of Twitter By Reuters",
+      "description": "U.S. senator questions Tesla board chair over Musk purchase of Twitter Please name your holdings portfolio let atwWrapper,atwContainerWidth,atwSliderBox,atwTotalWidth; function initATWSlider() { atwWrapper = $('.relatedInstruments'); atwSliderBox = atwWrapper…",
+      "url": "https://biztoc.com/x/0dc6936141c368a7",
+      "urlToImage": "https://c.biztoc.com/p/0dc6936141c368a7/og.webp",
+      "publishedAt": "2022-12-19T14:44:34Z",
+      "content": "U.S. senator questions Tesla board chair over Musk purchase of Twitter\r\nPlease name your holdings portfolio let atwWrapper,atwContainerWidth,atwSliderBox,atwTotalWidth; function initATWSlider() { atw… [+458 chars]"
+    },
+  {
+  "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "investing.com",
+      "title": "Tesla may announce Mexico plant in coming days - report By Reuters",
+      "description": "MEXICO CITY (Reuters) - Electric carmaker Tesla (NASDAQ: ) could announce the construction of a \"Gigafactory\" in the northern Mexican state of Nuevo Leon as soon as Friday, local newspaper Reforma reported Monday. The initial investment is projected at betwee…",
+      "url": "https://biztoc.com/x/523ac8d6f6343d57",
+      "urlToImage": "https://c.biztoc.com/p/523ac8d6f6343d57/og.webp",
+      "publishedAt": "2022-12-19T14:44:20Z",
+      "content": "MEXICO CITY (Reuters) - Electric carmaker Tesla (NASDAQ: ) could announce the construction of a \"Gigafactory\" in the northern Mexican state of Nuevo Leon as soon as Friday, local newspaper Reforma re… [+460 chars]"
+    },
+  {
+  "source": {
+        "id": null,
+        "name": "Mirror Online"
+      },
+      "author": "mirrornews@mirror.co.uk (Louise Lavigueur)",
+      "title": "Snoop Dogg receives one million votes to run Twitter after he mocks Elon Musk's poll",
+      "description": "Nearly one million vote for Snoop Dogg to run Twitter after he poked fun at Elon Musk who has vowed to stand by his decision after he ran a poll to decided his fate as CEO of the platform",
+      "url": "https://www.mirror.co.uk/3am/us-celebrity-news/snoop-dogg-receives-one-million-28769430",
+      "urlToImage": "https://i2-prod.mirror.co.uk/incoming/article28769388.ece/ALTERNATES/s1200/0_BESTPIX-LA3C-Day-1.jpg",
+      "publishedAt": "2022-12-19T14:43:41Z",
+      "content": "Snoop Dogg has put himself up to run Twitter in a poll on the platform, with nearly one million users backing him in his bid. \r\n The 51-year-old hip hop legend poked fun at the SpaceX and Tesla boss … [+2620 chars]"
+    },
+  {
+  "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Reuters",
+      "title": "US stocks open flat, Tesla rises on Musk poll outcome",
+      "description": "The Dow Jones Industrial Average rose 0.99 points, or 0.00%, at the open to 32,921.45",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/us-stocks-open-flat-tesla-rises-on-musk-poll-outcome/articleshow/96349480.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-96349517,width-1070,height-580,imgsize-177442,overlay-etmarkets/photo.jpg",
+      "publishedAt": "2022-12-19T14:42:30Z",
+      "content": "Wall Street's main stock indexes were subdued at the open on Monday after two straight weeks of losses on recession worries, while Tesla shares rose after a poll showed Elon Musk should quit as Twitt… [+256 chars]"
+    },
+  {
+  "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "insider@insider.com (Carla Mozée)",
+      "title": "US stocks dip after weekly drop as recession worries remain on the radar",
+      "description": "The S&P 500 is coming off two weeks of losses with time running out for a potential Santa Claus rally.",
+      "url": "https://markets.businessinsider.com/news/stocks/stock-market-news-dow-nasdaq-economy-recession-fed-rates-tesla-2022-12",
+      "urlToImage": "https://i.insider.com/6348425ff900fa001814c580?width=1200&format=jpeg",
+      "publishedAt": "2022-12-19T14:42:14Z",
+      "content": "Stocks traded lower Monday as investors navigate through signs of peaking inflation alongside concerns about the US running into recession next year. \r\nInvestors have only nine full trading sessions … [+1203 chars]"
+    },
+  {
+  "source": {
+        "id": null,
+        "name": "Tech Xplore"
+      },
+      "author": "Science X",
+      "title": "Twitter users vote to oust Elon Musk as CEO",
+      "description": "Twitter users voted on Monday to oust controversial owner Elon Musk as CEO in a poll he organized and promised to honor, just weeks after he took charge of the social media giant.",
+      "url": "https://techxplore.com/news/2022-12-twitter-users-vote-oust-elon.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2022/elon-musk-took-over-tw.jpg",
+      "publishedAt": "2022-12-19T14:40:31Z",
+      "content": "Twitter users voted on Monday to oust controversial owner Elon Musk as CEO in a poll he organized and promised to honor, just weeks after he took charge of the social media giant.\r\nA total of 57.5 pe… [+3573 chars]"
+    },
+  {
+  "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "reuters.com",
+      "title": "U.S. senator questions Tesla board chair over Musk purchase of Twitter",
+      "description": "[1/2] U.S. Senator Elizabeth Warren (D-MA) takes part in an International Brotherhood of Electrical Workers (IBEW) phone bank in Boston, Massachusetts, U.S. December 2, 2022. REUTERS/Evelyn Hockstein WASHINGTON, Dec 19 (Reuters) - Democratic Senator Elizabeth…",
+      "url": "https://biztoc.com/x/079d1098a4477e51",
+      "urlToImage": "https://c.biztoc.com/p/079d1098a4477e51/og.webp",
+      "publishedAt": "2022-12-19T14:40:06Z",
+      "content": "[1/2] U.S. Senator Elizabeth Warren (D-MA) takes part in an International Brotherhood of Electrical Workers (IBEW) phone bank in Boston, Massachusetts, U.S. December 2, 2022. REUTERS/Evelyn Hockstein… [+491 chars]"
+    },
+  {
+  "source": {
+        "id": null,
+        "name": "TechSpot"
+      },
+      "author": "Rob Thubron",
+      "title": "Elon Musk's poll asks users if he should step down as Twitter CEO, 57.5% vote yes",
+      "description": "Twitter has been chaotic since Musk took over just over 50 days ago: firing executives and half the staff, the verified account/Twitter Blue shambles, lawsuits, an EU warning about helping Vladimir Putin, advertisers leaving, fighting with Apple, and banning …",
+      "url": "https://www.techspot.com/news/97016-elon-musk-poll-asks-users-if-step-down.html",
+      "urlToImage": "https://static.techspot.com/images2/news/bigimage/2022/07/2022-07-11-image-10.jpg",
+      "publishedAt": "2022-12-19T14:38:00Z",
+      "content": "What just happened? With half of Twitter's staff having been fired from or departed the company since Elon Musk's arrival, it seems the next position it might be looking to fill is CEO. Musk tweeted … [+2501 chars]"
+    },
+  {
+  "source": {
+        "id": null,
+        "name": "FX Empire"
+      },
+      "author": "Reuters",
+      "title": "U.S. senator questions Tesla board chair over Musk purchase of Twitter",
+      "description": "WASHINGTON (Reuters) -   Democratic Senator Elizabeth Warren on Monday raised concerns Tesla&#039;s board of directors has failed to meet its legal responsibility to protect Tesla in the aftermath of Tesla Chief Executive Elon Musk&#039;s acquisition of Twitt…",
+      "url": "https://www.fxempire.com/news/article/u-s-senator-questions-tesla-board-chair-over-musk-purchase-of-twitter-1235032",
+      "urlToImage": "https://responsive.fxempire.com/width/600/webp-lossy-70.q50/_fxempire_/2022/12/tagreuters.com2022newsml_LYNXMPEIBI0HE1.jpg",
+      "publishedAt": "2022-12-19T14:37:57Z",
+      "content": "WASHINGTON (Reuters) Democratic Senator Elizabeth Warren on Monday raised concerns Teslas board of directors has failed to meet its legal responsibility to protect Tesla in the aftermath of Tesla Chi… [+443 chars]"
+    },
+  {
+  "source": {
+        "id": null,
+        "name": "Marketscreener.com"
+      },
+      "author": "MarketScreener",
+      "title": "Wall St opens flat, Tesla rises on Musk poll outcome",
+      "description": "(marketscreener.com) Wall Street's main stock indexes were\nsubdued at the open on Monday after two straight weeks of losses\non recession worries, while Tesla shares rose after a poll\nshowed Elon Musk should quit as Twitter's CEO.\n The Dow Jones Industrial Ave…",
+      "url": "https://www.marketscreener.com/quote/stock/TESLA-INC-6344549/news/Wall-St-opens-flat-Tesla-rises-on-Musk-poll-outcome-42579487/?utm_medium=RSS&utm_content=20221219",
+      "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+      "publishedAt": "2022-12-19T14:35:15Z",
+      "content": "Dec 19 (Reuters) - Wall Street's main stock indexes were\r\nsubdued at the open on Monday after two straight weeks of losses\r\non recession worries, while Tesla shares rose after a poll\r\nshowed Elon Mus… [+328 chars]"
+    },
+  {
+  "source": {
+        "id": null,
+        "name": "Tech Xplore"
+      },
+      "author": "Michael Allen",
+      "title": "Realizing a century-old dream to make electricity from air",
+      "description": "European research is expanding clean-energy options, bolstering the EU's goal to become climate-neural by 2050.",
+      "url": "https://techxplore.com/news/2022-12-century-old-electricity-air.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2022/realising-a-century-ol.jpg",
+      "publishedAt": "2022-12-19T14:34:18Z",
+      "content": "European research is expanding clean-energy options, bolstering the EU's goal to become climate-neural by 2050.\r\nAs the European Union strives for climate neutrality by mid-century, a mother-and-son … [+5794 chars]"
+    },
+  {
+  "source": {
+        "id": null,
+        "name": "The Daily Caller"
+      },
+      "author": "Vince Coglianese",
+      "title": "Editor Daily Rundown: The Border Crisis Is About To Get Worse",
+      "description": "Calling all Patriots!",
+      "url": "https://dailycaller.com/2022/12/19/editor-daily-rundown-border-crisis/",
+      "urlToImage": "https://cdn01.dailycaller.com/wp-content/uploads/2021/03/GettyImages-1231738183-1-scaled-e1616620698672.jpg",
+      "publishedAt": "2022-12-19T14:33:08Z",
+      "content": "THE BORDER CRISIS IS ABOUT TO GET WORSE… Abbott Voices Concern Over Looming End to Border Policy: ‘It’s Gonna Be Total Chaos’ (VIDEO)\r\nTexas Republican Gov. Greg Abbott expressed his concern over the… [+9079 chars]"
+    },
+  {
+  "source": {
+        "id": null,
+        "name": "Investing.com"
+      },
+      "author": "Reuters",
+      "title": "U.S. senator questions Tesla board chair over Musk purchase of Twitter",
+      "description": "U.S. senator questions Tesla board chair over Musk purchase of Twitter",
+      "url": "https://www.investing.com/news/politics/us-senator-questions-tesla-board-chair-over-musk-purchase-of-twitter-2967215",
+      "urlToImage": "https://i-invdn-com.investing.com/news/LYNXNPEC3K0F1_L.jpg",
+      "publishedAt": "2022-12-19T14:31:09Z",
+      "content": "We encourage you to use comments to engage with other users, share your perspective and ask questions of authors and each other. However, in order to maintain the high level of discourse we’ve all co… [+2129 chars]"
+    },
+  {
+  "source": {
+        "id": null,
+        "name": "PRNewswire"
+      },
+      "author": null,
+      "title": "Thinking about trading options or stock in Tesla, Alibaba, Aerojet Rocketdyne, Taiwan Semiconductor, or Exxon Mobil?",
+      "description": "NEW YORK, Dec. 19, 2022 /PRNewswire/ -- InvestorsObserver issues critical PriceWatch Alerts for TSLA, BABA, AJRD, TSM, and XOM. Click a link below then choose between in-depth options trade idea report or a stock score report. Options Report – Ideal trade ide…",
+      "url": "https://www.prnewswire.com/news-releases/thinking-about-trading-options-or-stock-in-tesla-alibaba-aerojet-rocketdyne-taiwan-semiconductor-or-exxon-mobil-301706156.html",
+      "urlToImage": "https://mma.prnewswire.com/media/1333368/InvestorsObserver_Logo.jpg?p=facebook",
+      "publishedAt": "2022-12-19T14:31:00Z",
+      "content": "NEW YORK, Dec. 19, 2022 /PRNewswire/ -- InvestorsObserver issues critical PriceWatch Alerts for TSLA, BABA, AJRD, TSM, and XOM.\r\nClick a link below then choose between in-depth options trade idea rep… [+798 chars]"
+    },
+  {
+  "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "investors.com",
+      "title": "Tesla Stock On The March As Twitter Users Vote For Musk To Go",
+      "description": "Tesla (TSLA) stock clocked solid gains Monday morning as CEO Elon Musk signaled he may stop running Twitter. Twitter users responded to a poll Musk posted Sunday evening on the social media platform. The majority of voters said Musk should step down from his …",
+      "url": "https://biztoc.com/x/b9fa8cc0200e1a99",
+      "urlToImage": "https://c.biztoc.com/p/b9fa8cc0200e1a99/og.webp",
+      "publishedAt": "2022-12-19T14:28:25Z",
+      "content": "Tesla (TSLA) stock clocked solid gains Monday morning as CEO Elon Musk signaled he may stop running Twitter. Twitter users responded to a poll Musk posted Sunday evening on the social media platform.… [+442 chars]"
+    },
+  {
+  "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "U.S. senator questions Tesla board chair over Musk purchase of ... - Reuters",
+      "description": "Democratic Senator Elizabeth Warren on Monday raised concerns Tesla's board of directors has failed to meet its legal responsibility to protect Tesla <a href=\"https://www.reuters.com/companies/TSLA.O\" target=\"_blank\">(TSLA.O)</a> in the aftermath of Tesla Chi…",
+      "url": "https://www.reuters.com/world/us/us-senator-questions-tesla-board-chair-over-musk-purchase-twitter-2022-12-19/",
+      "urlToImage": "https://www.reuters.com/resizer/Yir7Iq8FloYUZLE1wBLjLrL1jg8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/MU37Q2JAK5I4RF7BWX47F4UBRI.jpg",
+      "publishedAt": "2022-12-19T14:25:00Z",
+      "content": "WASHINGTON, Dec 19 (Reuters) - Democratic Senator Elizabeth Warren on Monday raised concerns Tesla's board of directors has failed to meet its legal responsibility to protect Tesla (TSLA.O) in the af… [+550 chars]"
+    },
+  {
+  "source": {
+        "id": null,
+        "name": "Android Authority"
+      },
+      "author": "Hadlee Simons",
+      "title": "Elon asked, you told him: He should step down from Twitter",
+      "description": "Twitter owner Elon Musk posted a poll asking users whether he should step down as head of the company. Well, the answer is indeed a yes.",
+      "url": "https://www.androidauthority.com/elon-musk-twitter-poll-step-down-3257857/",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2022/04/Twitter-stock-photos-15.jpg",
+      "publishedAt": "2022-12-19T14:24:34Z",
+      "content": "<ul><li>Twitter owner Elon Musk published a poll asking people whether he should step down.</li><li>The final results show that 57.5% of polled users voted yes.</li></ul>\r\nTwitter CEO Elon Musk poste… [+1036 chars]"
+    },
+  {
+  "source": {
+        "id": null,
+        "name": "FX Empire"
+      },
+      "author": "Reuters",
+      "title": "Tesla may announce Mexico plant in coming days – report",
+      "description": "MEXICO CITY (Reuters) -   Electric carmaker Tesla could announce the construction of a \"Gigafactory\" in the northern Mexican state of Nuevo Leon as soon as Friday, local newspaper Reforma reported Monday.",
+      "url": "https://www.fxempire.com/news/article/tesla-may-announce-mexico-plant-in-coming-days-report-1235012",
+      "urlToImage": "https://responsive.fxempire.com/width/600/webp-lossy-70.q50/_fxempire_/2022/12/tagreuters.com2022newsml_LYNXMPEIBI0HD1.jpg",
+      "publishedAt": "2022-12-19T14:22:57Z",
+      "content": "The announcement would follow Chief Executive Elon Musks visit to the state, which borders Texas, in October. A source told Reuters then that Musk had met with Nuevo Leon Governor Samuel Garcia and U… [+650 chars]"
+    },
+  {
+  "source": {
+        "id": null,
+        "name": "Investing.com"
+      },
+      "author": "Reuters",
+      "title": "Tesla may announce Mexico plant in coming days - report",
+      "description": "Tesla may announce Mexico plant in coming days - report",
+      "url": "https://www.investing.com/news/stock-market-news/tesla-may-announce-mexico-plant-in-coming-days--report-2967209",
+      "urlToImage": "https://i-invdn-com.investing.com/news/LYNXMPEE421MT_L.jpg",
+      "publishedAt": "2022-12-19T14:20:43Z",
+      "content": "MEXICO CITY (Reuters) - Electric carmaker Tesla (NASDAQ:TSLA) could announce the construction of a \"Gigafactory\" in the northern Mexican state of Nuevo Leon as soon as Friday, local newspaper Reforma… [+917 chars]"
+    },
+  {
+  "source": {
+        "id": null,
+        "name": "Marketscreener.com"
+      },
+      "author": "MarketScreener",
+      "title": "Tesla may announce Mexico plant in coming days - report",
+      "description": "(marketscreener.com) Electric carmaker Tesla could announce the construction of a \"Gigafactory\" in the northern Mexican state of Nuevo Leon as soon as Friday, local newspaper Reforma reported Monday.https://www.marketscreener.com/quote/stock/TESLA-INC-6344549…",
+      "url": "https://www.marketscreener.com/quote/stock/TESLA-INC-6344549/news/Tesla-may-announce-Mexico-plant-in-coming-days-report-42579295/?utm_medium=RSS&utm_content=20221219",
+      "urlToImage": "https://img.zonebourse.com/reuters/2022-11/2022-11-16T045251Z_1_LYNXMPEIAF056_RTROPTP_3_TESLA-DELIVERIES.JPG",
+      "publishedAt": "2022-12-19T14:19:02Z",
+      "content": "The initial investment is projected at between $800 million and $1 billion, sources told the newspaper.\r\nThe announcement would follow Chief Executive Elon Musk's visit to the state, which borders Te… [+756 chars]"
+    },
+  {
+  "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "investing.com",
+      "title": "Wall St set for slightly higher open; Tesla rises on Musk poll outcome By Reuters",
+      "description": "(Reuters) -Wall Street's main stock indexes were set to open slightly higher on Monday after two straight weeks of losses on recession worries, while Tesla (NASDAQ: ) shares rose after a poll showed Elon Musk should quit as Twitter's CEO. Shares of the electr…",
+      "url": "https://biztoc.com/x/69af141440e90b50",
+      "urlToImage": "https://c.biztoc.com/p/69af141440e90b50/og.webp",
+      "publishedAt": "2022-12-19T14:14:45Z",
+      "content": "(Reuters) -Wall Street's main stock indexes were set to open slightly higher on Monday after two straight weeks of losses on recession worries, while Tesla (NASDAQ: ) shares rose after a poll showed … [+471 chars]"
+    },
+  {
+  "source": {
+        "id": null,
+        "name": "Freerepublic.com"
+      },
+      "author": "San Francisco Chronicle",
+      "title": "'You have to compartmentalize': Bay Area Tesla drivers cringe at Elon Musk",
+      "description": "“I used to think when people cut me off it was because I was in a fancy car. These days when someone cuts me off, I wonder if it’s because of Elon.”",
+      "url": "https://freerepublic.com/focus/f-news/4117426/posts",
+      "urlToImage": null,
+      "publishedAt": "2022-12-19T14:13:44Z",
+      "content": "Skip to comments.\r\n'You have to compartmentalize': Bay Area Tesla drivers cringe at Elon MuskSan Francisco Chronicle ^\r\n | Dec. 19, 2022\r\n | David Curran\r\nPosted on 12/19/2022 6:13:44 AM PST by artic… [+2496 chars]"
+    },
+  {
+  "source": {
+        "id": null,
+        "name": "Business Wire"
+      },
+      "author": null,
+      "title": "TuneIn Just Got a Lot More Relaxing with Calm Radio Partnership",
+      "description": "SAN FRANCISCO--(BUSINESS WIRE)--TuneIn, the world’s leading live-streaming audio service, and Calm Radio, a music streaming alternative that offers the best easy-listening, wellness, sleep, classical and jazz music, announced a renewed partnership that will i…",
+      "url": "https://www.businesswire.com/news/home/20221219005120/en/TuneIn-Just-Got-a-Lot-More-Relaxing-with-Calm-Radio-Partnership",
+      "urlToImage": "http://www.businesswire.com/images/bwlogo_square.png",
+      "publishedAt": "2022-12-19T14:12:16Z",
+      "content": "SAN FRANCISCO--(BUSINESS WIRE)--TuneIn, the worlds leading live-streaming audio service, and Calm Radio, a music streaming alternative that offers the best easy-listening, wellness, sleep, classical … [+3219 chars]"
+    },
+  {
+  "source": {
+        "id": null,
+        "name": "Checkyourfact.com"
+      },
+      "author": "Joseph Casieri",
+      "title": "FACT CHECK: Did The Guardian Report On Leaked Audio Of Elon Musk?",
+      "description": "An image shared on Facebook purports The Guardian claimed audio of Twitter CEO Elon Musk ranting about a &quot;subversive elite plot&quot; leaked online.",
+      "url": "https://checkyourfact.com/2022/12/19/fact-check-the-guardian-elon-musk-tape/",
+      "urlToImage": "https://cdn01.dailycaller.com/wp-content/uploads/2022/12/2022-12-09T090647Z_1678931279_RC282Y9GA66J_RTRMADP_3_TESLA-CHINA-OUTPUT-scaled-e1671042629172.jpg",
+      "publishedAt": "2022-12-19T14:11:39Z",
+      "content": "An image shared on Facebook purports The Guardian claimed audio of Twitter CEO Elon Musk ranting about a “subversive elite plot” leaked online.\r\nVerdict: False\r\nThe article appears to be digitally fa… [+2044 chars]"
+    },
+  {
+  "source": {
+        "id": null,
+        "name": "Investing.com"
+      },
+      "author": "Reuters",
+      "title": "Wall St set for slightly higher open; Tesla rises on Musk poll outcome",
+      "description": "Wall St set for slightly higher open; Tesla rises on Musk poll outcome",
+      "url": "https://www.investing.com/news/economy/futures-higher-after-twoweek-selloff-tesla-jumps-on-musk-poll-2967056",
+      "urlToImage": "https://i-invdn-com.investing.com/news/SP500StandardandPoors500Index_800x533_L_1657544297.jpg",
+      "publishedAt": "2022-12-19T14:11:36Z",
+      "content": "By Shubham Batra and Johann M Cherian\r\n(Reuters) -Wall Street's main stock indexes were set to open slightly higher on Monday after two straight weeks of losses on recession worries, while Tesla (NAS… [+2052 chars]"
+    },
+  {
+  "source": {
+        "id": null,
+        "name": "Marketscreener.com"
+      },
+      "author": "MarketScreener",
+      "title": "U.S. senator questions Tesla board chair over Musk purchase of Twitter",
+      "description": "(marketscreener.com) Democratic Senator\nElizabeth Warren on Monday raised concerns Tesla's board of\ndirectors has failed to meet its legal responsibility to protect\nTesla in the aftermath of Tesla Chief Executive Elon\nMusk's acquisition of Twitter.\n \"Despite …",
+      "url": "https://www.marketscreener.com/quote/stock/TESLA-INC-6344549/news/U-S-senator-questions-Tesla-board-chair-over-Musk-purchase-of-Twitter-42579298/?utm_medium=RSS&utm_content=20221219",
+      "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdgris.png",
+      "publishedAt": "2022-12-19T14:07:17Z",
+      "content": "WASHINGTON, Dec 19 (Reuters) - Democratic Senator\r\nElizabeth Warren on Monday raised concerns Tesla's board of\r\ndirectors has failed to meet its legal responsibility to protect\r\nTesla in the aftermat… [+506 chars]"
+    },
+  {
+  "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "financialpost.com",
+      "title": "Wall St set for slightly higher open; Tesla rises on Musk poll outcome",
+      "description": "Sign up to receive the daily top stories from the Financial Post, a division of Postmedia Network Inc. • There was an error, please provide a valid email address. Thanks for signing up! A welcome email is on its way. If you don't see it, please check your jun…",
+      "url": "https://biztoc.com/x/b3f67be9b30b8ffa",
+      "urlToImage": "https://c.biztoc.com/p/b3f67be9b30b8ffa/og.webp",
+      "publishedAt": "2022-12-19T14:07:01Z",
+      "content": "Sign up to receive the daily top stories from the Financial Post, a division of Postmedia Network Inc.There was an error, please provide a valid email address. Thanks for signing up! A welcome email … [+504 chars]"
+    },
+  {
+  "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "marketwatch.com",
+      "title": "Twitter voters favor Elon Musk stepping down, as Tesla shares rise",
+      "description": "Nearly 58% or about 17.5 million Twitters votes were cast in favor of Elon Musk stepping down from the company, Musk's Twitter account said Monday. Meanwhile shares of Tesla Inc. TSLA, , the electric car company that Musk also runs, saw its stock rise by 4.7%…",
+      "url": "https://biztoc.com/x/c6d0a8f4a6c3fa01",
+      "urlToImage": "https://c.biztoc.com/p/c6d0a8f4a6c3fa01/og.webp",
+      "publishedAt": "2022-12-19T14:05:17Z",
+      "content": "Nearly 58% or about 17.5 million Twitters votes were cast in favor of Elon Musk stepping down from the company, Musk's Twitter account said Monday. Meanwhile shares of Tesla Inc. TSLA, , the electric… [+398 chars]"
+    },
+  {
+  "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "zerohedge.com",
+      "title": "Futures Rise On China Growth Hopes | ZeroHedge",
+      "description": "Futures Rise On China Growth Hopes After US stocks were set to start week with modest gains as optimism around an economic recovery in China offset fears that the Fed is pushing the US economy off a recessionary cliff. S&P and Nasdaq futures were both up 0.4%…",
+      "url": "https://biztoc.com/x/7acb292ab9fddde0",
+      "urlToImage": "https://c.biztoc.com/p/7acb292ab9fddde0/og.webp",
+      "publishedAt": "2022-12-19T14:04:30Z",
+      "content": "Futures Rise On China Growth Hopes\r\nAfter US stocks were set to start week with modest gains as optimism around an economic recovery in China offset fears that the Fed is pushing the US economy off a… [+440 chars]"
+    },
+  {
+  "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "politico.com",
+      "title": "Musk’s Twitter poll says he should resign as head of Twitter",
+      "description": "Elon Musk asked Twitter users Sunday whether he should step down as head of the the social media platform he bought earlier this year, pledging that he would “abide by the results of this poll.” Monday morning, Musk got his answer. By a 15-point margin, respo…",
+      "url": "https://biztoc.com/x/99b761025c941657",
+      "urlToImage": "https://c.biztoc.com/p/99b761025c941657/og.webp",
+      "publishedAt": "2022-12-19T14:02:16Z",
+      "content": "Elon Musk asked Twitter users Sunday whether he should step down as head of the the social media platform he bought earlier this year, pledging that he would abide by the results of this poll. Monday… [+398 chars]"
+    },
+  {
+  "source": {
+        "id": null,
+        "name": "Above the Law"
+      },
+      "author": "Joe Patrice",
+      "title": "Morning Docket: 12.19.22",
+      "description": "* Scholars are increasingly worried about the Supreme Court's shift toward lawless Star Chamber. Alternate headline: \"New York Times Readers Learning What Savvy, Smart, And Undeniably More Attractive Above The Law Readers Have Known For Years. [NY Times]\n* A …",
+      "url": "https://abovethelaw.com/2022/12/morning-docket-12-19-22/",
+      "urlToImage": "https://abovethelaw.com/uploads/2022/04/Supreme-Court-Day-Staci-Zaretsky-scaled-e1649442389582.jpg",
+      "publishedAt": "2022-12-19T14:01:18Z",
+      "content": "* Scholars are increasingly worried about the Supreme Court’s shift toward lawless Star Chamber. Alternate headline: “New York Times Readers Learning What Savvy, Smart, And Undeniably More Attractive… [+1264 chars]"
+    },
+  {
+  "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "investing.com",
+      "title": "Tesla, Moderna, Mesa Air rise premarket; Meta Platforms lower By Investing.com",
+      "description": "We encourage you to use comments to engage with other users, share your perspective and ask questions of authors and each other. However, in order to maintain the high level of discourse we’ve all come to value and expect, please keep the following criteria i…",
+      "url": "https://biztoc.com/x/328f3363eebdc5ec",
+      "urlToImage": "https://c.biztoc.com/p/328f3363eebdc5ec/og.webp",
+      "publishedAt": "2022-12-19T14:00:25Z",
+      "content": "We encourage you to use comments to engage with other users, share your perspective and ask questions of authors and each other. However, in order to maintain the high level of discourse weve all com… [+382 chars]"
+    },
+  {
+  "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "finance.yahoo.com",
+      "title": "Probe of NEURALINK to scrutinize long-criticized animal welfare regulator...",
+      "description": "Law enforcement officials investigating Elon Musk's Neuralink Corp over its animal trial program are also scrutinizing the U.S. Department of Agriculture’s...",
+      "url": "https://finance.yahoo.com/news/exclusive-probe-musks-neuralink-scrutinize-111024198.html",
+      "urlToImage": "https://media.zenfs.com/en/reuters-finance.com/769285feee9e4ca1ac658f8777c5e0db",
+      "publishedAt": "2022-12-19T14:00:04Z",
+      "content": "Exclusive-Probe of Musk's Neuralink to scrutinize long-criticized U.S animal welfare regulatorBy Rachael Levy, Sarah N. Lynch and Marisa Taylor(Reuters) - Law enforcement officials investigating Elon… [+11062 chars]"
+    },
+  {
+  "source": {
+        "id": null,
+        "name": "PRNewswire"
+      },
+      "author": null,
+      "title": "Stoke Voltaics Launches E-Kite with SmartCharge(TM) Technology: The Game-Changing EV Charger",
+      "description": "NEW YORK, Dec. 19, 2022 /PRNewswire/ -- The electronic vehicle (EV) market is constantly expanding, with vehicles getting bigger, better, and more powerful. But this means EV chargers and accessories must evolve to support this development, ensuring optimal c…",
+      "url": "https://www.prnewswire.com/news-releases/stoke-voltaics-launches-e-kite-with-smartchargetm-technology-the-game-changing-ev-charger-301705082.html",
+      "urlToImage": "https://mma.prnewswire.com/media/1970166/E_KITEPRphoto.jpg?p=facebook",
+      "publishedAt": "2022-12-19T14:00:00Z",
+      "content": "NEW YORK, Dec. 19, 2022 /PRNewswire/ -- The electronic vehicle (EV) market is constantly expanding, with vehicles getting bigger, better, and more powerful. But this means EV chargers and accessories… [+2621 chars]"
+    },
+  {
+  "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Sam Abuelsamid, Senior Contributor, \n Sam Abuelsamid, Senior Contributor\n https://www.forbes.com/sites/samabuelsamid/",
+      "title": "Aurora Release Driver Beta 5.0, Another Step Toward Feature Complete",
+      "description": "Aurora Innovation is moving a step closer to feature complete status and validating its automated driving system with the release of its Driver Beta 5.0",
+      "url": "https://www.forbes.com/sites/samabuelsamid/2022/12/19/aurora-release-driver-beta-50-another-step-toward-feature-complete/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/639df784a307e62d248cea7f/0x0.jpg?format=jpg&width=1200",
+      "publishedAt": "2022-12-19T14:00:00Z",
+      "content": "Automated Kenworth T680 with integrated Aurora Driver\r\nAurora Innovation\r\nUltimately, in order for automated driving to gain a real foothold on the worlds roads, humans will have to trust that the te… [+5886 chars]"
+    },
+  {
+  "source": {
+        "id": null,
+        "name": "Thefly.com"
+      },
+      "author": null,
+      "title": "Notable open interest changes for December 19th",
+      "description": "See the rest of the story here.\n\nthefly.com provides the latest financial news as it breaks. Known as a leader in market intelligence, The Fly's real-time, streaming news feed keeps individual investors, professional money managers, active traders, and corpor…",
+      "url": "https://thefly.com/permalinks/entry.php/id3635075/TSLA;AAPL;AMZN;SBUX-Notable-open-interest-changes-for-December-th",
+      "urlToImage": "https://thefly.com/images/meta/options.jpg",
+      "publishedAt": "2022-12-19T13:55:01Z",
+      "content": "Friday's total option volume of 50.2 million contracts resulted in net open interest growth of 5.41 million calls and 4.52 million puts. Tesla (TSLA), Apple (AAPL), Amazon (AMZN) and Starbucks (SBUX)… [+261 chars]"
+    },
+  {
+  "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "investors.com",
+      "title": "Tesla Stock On The March As Twitter Users Vote For Musk To Go",
+      "description": "Tesla (TSLA) stock clocked solid gains Monday morning as CEO Elon Musk signaled he may stop running Twitter. Twitter users responded to a poll Musk posted Sunday evening on the social media platform. The majority of voters said Musk should step down from his …",
+      "url": "https://biztoc.com/x/2c689f60d01079c3",
+      "urlToImage": "https://c.biztoc.com/p/2c689f60d01079c3/og.webp",
+      "publishedAt": "2022-12-19T13:52:39Z",
+      "content": "Tesla (TSLA) stock clocked solid gains Monday morning as CEO Elon Musk signaled he may stop running Twitter. Twitter users responded to a poll Musk posted Sunday evening on the social media platform.… [+462 chars]"
+    },
+  {
+  "source": {
+        "id": null,
+        "name": "Investing.com"
+      },
+      "author": "Investing.com",
+      "title": "Tesla, Moderna, Mesa Air rise premarket; Meta Platforms lower",
+      "description": "Tesla, Moderna, Mesa Air rise premarket; Meta Platforms lower",
+      "url": "https://www.investing.com/news/stock-market-news/tesla-moderna-mesa-air-rise-premarket-meta-platforms-lower-432SI-2967147",
+      "urlToImage": "https://i-invdn-com.investing.com/news/LYNXNPEE8G0G4_L.jpg",
+      "publishedAt": "2022-12-19T13:51:01Z",
+      "content": "We encourage you to use comments to engage with other users, share your perspective and ask questions of authors and each other. However, in order to maintain the high level of discourse we’ve all co… [+2129 chars]"
+    },
+  {
+  "source": {
+        "id": null,
+        "name": "Barron's"
+      },
+      "author": "Al Root",
+      "title": "Tesla Stock Downgraded. It's Still All About Twitter.",
+      "description": "Oppenheimer analyst downgrades Tesla stock to Hold from Buy Monday. He cites Twitter as a reason for the cut.",
+      "url": "https://www.barrons.com/articles/tesla-stock-downgrade-twitter-musk-51671457763",
+      "urlToImage": "https://images.barrons.com/im-633678/social",
+      "publishedAt": "2022-12-19T13:51:00Z",
+      "content": "Tesla\r\n investors could finally see some light at the end of the Twitter-tunnel with Elon Musk potentially leaving his role as CEO of his social media platform after a poll.But that doesnt mean the e… [+2625 chars]"
+    },
+  {
+  "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "yahoo.com",
+      "title": "Twitter poll result: Elon Musk told to quit as chief executive - latest updates",
+      "description": "Millions of Twitter users have voted for Elon Musk to quit as chief executive leaving his future at the social media company in doubt after he promised to \"abide by\" the result. More than 57pc of 17.5m Twitter users who took part said the world's second riche…",
+      "url": "https://biztoc.com/x/176ba9d4677c0af8",
+      "urlToImage": "https://c.biztoc.com/p/176ba9d4677c0af8/og.webp",
+      "publishedAt": "2022-12-19T13:46:13Z",
+      "content": "Millions of Twitter users have voted for Elon Musk to quit as chief executive leaving his future at the social media company in doubt after he promised to \"abide by\" the result.\r\nMore than 57pc of 17… [+422 chars]"
+    },
+  {
+  "source": {
+        "id": "vice-news",
+        "name": "Vice News"
+      },
+      "author": "David Gilbert, Leah Feiger",
+      "title": "Will Elon Musk Step Down as Twitter CEO?",
+      "description": "Musk posted a Twitter poll on Sunday asking his 122 million followers if he should “step down as the head of Twitter.”",
+      "url": "https://www.vice.com/en/article/pkg9yz/elon-musk-step-down-as-twitter-ceo",
+      "urlToImage": "https://video-images.vice.com/articles/63a04c13dfbabbd720cd8a8d/lede/1671456813291-elon-musk-twitter-poll.jpeg?image-resize-opts=Y3JvcD0xeHc6MC44NDIzeGg7MHh3LDAuMDIxMXhoJnJlc2l6ZT0xMjAwOiomcmVzaXplPTEyMDA6Kg",
+      "publishedAt": "2022-12-19T13:44:32Z",
+      "content": "Is it possible that  Elon Musk is going to step down as the CEO of the company he just bought for $44 billion?\r\nFollowing a chaotic six weeks in charge of the platform, Musk on Sunday night posted a … [+2645 chars]"
+    },
+  {
+  "source": {
+        "id": null,
+        "name": "Raw Story"
+      },
+      "author": "Matthew Chapman",
+      "title": "Former OAN host follows Trump with a laptop and printer to read him 'uplifting' stories as he golfs: report",
+      "description": "On Monday, The Daily Beast reported that former President Donald Trump is accompanied by a former host for the far-right One America News Network (OAN) while he golfs, who follows him around and reads him positive news stories to make him feel better.The form…",
+      "url": "https://www.rawstory.com/trump-golf-course-2658982558/",
+      "urlToImage": "https://www.rawstory.com/media-library/donald-trump-golfing.jpg?id=26395229&width=1200&height=600&coordinates=0%2C30%2C0%2C30",
+      "publishedAt": "2022-12-19T13:42:08Z",
+      "content": "He took over Twitter on October 27 and has repeatedly courted controversy, sacking half of its staff, readmitting far-right figures to the platform, banning journalists and trying to charge for previ… [+2883 chars]"
+    },
+  {
+  "source": {
+        "id": null,
+        "name": "Autoblog"
+      },
+      "author": "Bloomberg",
+      "title": "Tesla stock jumps after poll tells Elon Musk he should step away from Twitter",
+      "description": "Filed under:\nGreen,Hirings/Firings/Layoffs,Tesla\n\nContinue reading Tesla stock jumps after poll tells Elon Musk he should step away from Twitter\n\nTesla stock jumps after poll tells Elon Musk he should step away from Twitter originally appeared on Autoblog on …",
+      "url": "https://www.autoblog.com/2022/12/19/tesla-stock-elon-musk-twitter-poll/",
+      "urlToImage": "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://s.yimg.com/os/creatr-uploaded-images/2022-12/f12501f0-7fa1-11ed-85bf-f050e64a5806",
+      "publishedAt": "2022-12-19T13:35:00Z",
+      "content": "Tesla shares jumped in anticipation of Elon Musk stepping back from Twitter., the social media company that has distracted him from running the electric-car maker for months.\r\nTeslas stock rose as mu… [+1344 chars]"
+    },
+  {
+  "source": {
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "author": "feedfeeder",
+      "title": "Tesla Buyers Are Bailing Because of Elon Musk, the 'Worst Troll' - CNET",
+      "description": "Tesla salespeople say \"a lot\" of customers canceling orders blame Musk's Twitter behavior.",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=169121944",
+      "urlToImage": null,
+      "publishedAt": "2022-12-19T13:34:57Z",
+      "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
+    },
+  {
+  "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "247wallst.com",
+      "title": "Before the Bell: House Committee Set to Recommend Charges Against Trump, Musk Voted Out at Twitter – 24/7 Wall St.",
+      "description": "Premarket action Monday had all three major U.S. indexes trading slightly higher: the Dow Jones industrial average was up 0.35%, the S&P 500 up 0.43% and the Nasdaq 0.51% higher. All 11 market sectors closed lower again Friday, with real estate (−2.96%) and c…",
+      "url": "https://biztoc.com/x/988629a8c9835f84",
+      "urlToImage": "https://c.biztoc.com/p/988629a8c9835f84/og.webp",
+      "publishedAt": "2022-12-19T13:32:41Z",
+      "content": "Premarket action Monday had all three major U.S. indexes trading slightly higher: the Dow Jones industrial average was up 0.35%, the S&amp;P 500 up 0.43% and the Nasdaq 0.51% higher.All 11 market sec… [+497 chars]"
+    },
+  {
+  "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "forbes.com",
+      "title": "Tesla Stock Surges In Pre-Market After Musk Offers To Step Down As Twitter CEO",
+      "description": "Tesla shares rose sharply in pre-market trading on Monday after a majority of Twitter users polled by Elon Musk voted in favor of him stepping down as the social media company’s CEO, a move that could help address shareholder concerns about his leadership ham…",
+      "url": "https://biztoc.com/x/28c29bbdaf8497d4",
+      "urlToImage": "https://c.biztoc.com/p/28c29bbdaf8497d4/og.webp",
+      "publishedAt": "2022-12-19T13:32:18Z",
+      "content": "Tesla shares rose sharply in pre-market trading on Monday after a majority of Twitter users polled by Elon Musk voted in favor of him stepping down as the social media companys CEO, a move that could… [+436 chars]"
+    },
+  {
+  "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "cnbc.com",
+      "title": "5 things to know before the stock market opens Monday",
+      "description": "U.S. stock markets are on their first two-week losing streak since September. The December funk is a result of uncertainty about the economy in the near term – is there going to be a recession or not? – and certainty about the Federal Reserve's dedication to …",
+      "url": "https://biztoc.com/x/7280ed2508b53bd5",
+      "urlToImage": "https://c.biztoc.com/p/7280ed2508b53bd5/og.webp",
+      "publishedAt": "2022-12-19T13:32:10Z",
+      "content": "U.S. stock markets are on their first two-week losing streak since September. The December funk is a result of uncertainty about the economy in the near term is there going to be a recession or not? … [+441 chars]"
+    },
+  {
+  "source": {
+        "id": "politico",
+        "name": "Politico"
+      },
+      "author": "Rebecca Kern and Kelly Hooper",
+      "title": "Musk’s Twitter poll says he should resign as head of Twitter",
+      "description": "Musk hasn’t said yet whether he’ll follow through with his promise to step down.",
+      "url": "https://www.politico.com/news/2022/12/19/musks-own-twitter-poll-results-say-he-should-resign-as-head-of-twitter-00074537",
+      "urlToImage": "https://static.politico.com/90/47/4bac47034167bbdc5d9738b6f96d/musk-twitter-journalists-52451.jpg",
+      "publishedAt": "2022-12-19T13:30:55Z",
+      "content": "The declaration comes as Musk has faced widespread criticism less than two months after he bought the company, gutted its staff, drove away major advertisers and saddled it with billions in debt all … [+1947 chars]"
+    },
+  {
+  "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Factbox: Elon Musk's Twitter polls - from stake sales to CEO decisions - Reuters",
+      "description": "A majority of Twitter users voted for billionaire <a href=\"/technology/musk-poll-shows-575-want-him-step-down-twitter-chief-2022-12-19/\">Elon Musk to step down</a> as the chief executive of the social media firm after he started a poll on Sunday evening, the …",
+      "url": "https://www.reuters.com/technology/elon-musks-twitter-polls-stake-sales-ceo-decisions-2022-12-19/",
+      "urlToImage": "https://www.reuters.com/resizer/B5AqHumlRbmMmYLBtVvLGnP-c7w=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WPLQCKQZDJOH7DJDCID6R3LZH4.jpg",
+      "publishedAt": "2022-12-19T13:29:00Z",
+      "content": "Dec 19 (Reuters) - A majority of Twitter users voted for billionaire Elon Musk to step down as the chief executive of the social media firm after he started a poll on Sunday evening, the latest twist… [+2125 chars]"
+    },
+  {
+  "source": {
+        "id": null,
+        "name": "Raw Story"
+      },
+      "author": "Travis Gettys",
+      "title": "Newly elected GOP congressman appears to have invented his backstory: report",
+      "description": "A newly elected Republican congressman appears to have invented portions of his biography.George Santos, a son of Brazilian immigrants who presented himself as a \"seasoned Wall Street financier and investor\" who owned 13 properties and operated an animal resc…",
+      "url": "https://www.rawstory.com/george-santos-new-york/",
+      "urlToImage": "https://www.rawstory.com/media-library/george-santos.png?id=32362959&width=1200&height=600&coordinates=0%2C20%2C0%2C30",
+      "publishedAt": "2022-12-19T13:26:20Z",
+      "content": "He took over Twitter on October 27 and has repeatedly courted controversy, sacking half of its staff, readmitting far-right figures to the platform, banning journalists and trying to charge for previ… [+2883 chars]"
+    },
+  {
+  "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "businessinsider.com",
+      "title": "Goldman Sachs has plans for deep headcount cuts in the new year",
+      "description": "Welcome back. Dan DeFrancesco checking in from NYC and hoping you had a fantastic first night of Hanukkah, for those who celebrate. All eyes are currently on Elon Musk's Twitter, after the billionaire on Sunday posted a poll asking users whether he should ste…",
+      "url": "https://biztoc.com/x/98aa601997889648",
+      "urlToImage": "https://c.biztoc.com/p/98aa601997889648/og.webp",
+      "publishedAt": "2022-12-19T13:26:10Z",
+      "content": "Welcome back. Dan DeFrancesco checking in from NYC and hoping you had a fantastic first night of Hanukkah, for those who celebrate.All eyes are currently on Elon Musk's Twitter, after the billionaire… [+506 chars]"
+    },
+  {
+  "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "businessinsider.com",
+      "title": "The perks of tech work are rapidly disappearing. Here's why.",
+      "description": "Hello there, tech fans. I'm your host, Jordan Parker Erb. Breaking: On Sunday night, Elon Musk asked Twitter users in a poll if he should \"step down as head of Twitter\" — adding that he will abide by the results. The poll closed just moments ago, with 57.5% o…",
+      "url": "https://biztoc.com/x/c2986ff056054842",
+      "urlToImage": "https://c.biztoc.com/p/c2986ff056054842/og.webp",
+      "publishedAt": "2022-12-19T13:26:08Z",
+      "content": "Hello there, tech fans. I'm your host, Jordan Parker Erb.Breaking: On Sunday night, Elon Musk asked Twitter users in a poll if he should \"step down as head of Twitter\" adding that he will abide by th… [+440 chars]"
+    },
+  {
+  "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "investors.com",
+      "title": "Futures Rise As Tesla Jumps On Elon Musk Twitter Poll",
+      "description": "Dow Jones futures rose Monday morning, as the major stock indexes looked to rebound from last week's heavy losses. Tesla stock bounced Monday, as CEO Elon Musk's Twitter poll showed that most users wanted him to \"step down as head of Twitter.\" X Earnings repo…",
+      "url": "https://biztoc.com/x/da6452d9efb83785",
+      "urlToImage": "https://c.biztoc.com/p/da6452d9efb83785/og.webp",
+      "publishedAt": "2022-12-19T13:24:27Z",
+      "content": "Dow Jones futures rose Monday morning, as the major stock indexes looked to rebound from last week's heavy losses. Tesla stock bounced Monday, as CEO Elon Musk's Twitter poll showed that most users w… [+424 chars]"
+    },
+  {
+  "source": {
+        "id": null,
+        "name": "BGR"
+      },
+      "author": "José Adorno",
+      "title": "Twitter users voted for Elon Musk to step down as CEO, but will he?",
+      "description": "Since Elon Musk bought Twitter for $44 billion, the billionaire decided to perform as a dictator and sometimes as a Democrat. On the path to …\nThe post Twitter users voted for Elon Musk to step down as CEO, but will he? appeared first on BGR.",
+      "url": "https://bgr.com/tech/twitter-users-voted-for-elon-musk-to-step-down-as-ceo-but-will-he/",
+      "urlToImage": "https://bgr.com/wp-content/uploads/2022/11/rsz_gettyimages-1244724558.jpg?quality=82&strip=all",
+      "publishedAt": "2022-12-19T13:23:22Z",
+      "content": "Since Elon Musk bought Twitter for $44 billion, the billionaire decided to perform as a dictator and sometimes as a Democrat. On the path to making his newly acquired social media a public square, he… [+2072 chars]"
+    },
+  {
+  "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "watcher.guru",
+      "title": "Will Dogecoin fall if Elon Musk steps down as Twitter CEO?",
+      "description": "Elon Musk, CEO of Tesla and the owner of Twitter, conducted a poll on the social media platform, asking people if he should step down as the head of the tech company. Being the Dogecoin (DOGE) proponent that he is, the popular coin dived with the possibility …",
+      "url": "https://biztoc.com/x/8a59d5b3ac8352a8",
+      "urlToImage": "https://c.biztoc.com/p/8a59d5b3ac8352a8/og.webp",
+      "publishedAt": "2022-12-19T13:22:10Z",
+      "content": "Elon Musk, CEO of Tesla and the owner of Twitter, conducted a poll on the social media platform, asking people if he should step down as the head of the tech company. Being the Dogecoin (DOGE) propon… [+429 chars]"
+    },
+  {
+  "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "businessinsider.com",
+      "title": "Elon Musk blames Tesla's $600 billion plunge in market value this year on the Fed - as rising interest rates erode the appeal of stocks",
+      "description": "Elon Musk has blamed the Federal Reserve for the sharp decline in Tesla stock this year. • Rising interest rates have boosted the appeal of Treasuries relative to stocks, the Tesla CEO said. • Tesla stock has been hit by fears that Musk's Twitter purchase is …",
+      "url": "https://biztoc.com/x/3161c075fd25ab45",
+      "urlToImage": "https://c.biztoc.com/p/3161c075fd25ab45/og.webp",
+      "publishedAt": "2022-12-19T13:16:18Z",
+      "content": "Elon Musk has blamed the Federal Reserve for the sharp decline in Tesla stock this year.Rising interest rates have boosted the appeal of Treasuries relative to stocks, the Tesla CEO said.Tesla stock … [+438 chars]"
+    },
+  {
+  "source": {
+        "id": "the-washington-times",
+        "name": "The Washington Times"
+      },
+      "author": "Ryan Lovelace",
+      "title": "Musk says no successor in place, as Twitter poll urges him to step down",
+      "description": "Twitter CEO Elon Musk said he has no successor ready to lead his social media platform if he exits his leadership position atop the company.",
+      "url": "https://www.washingtontimes.com/news/2022/dec/19/elon-musk-says-no-successor-place-twitter-poll-urg/",
+      "urlToImage": "https://twt-thumbs.washtimes.com/media/image/2022/12/16/musk_twitter_journalists_49648_c0-0-2129-1241_s1200x700.jpg?f414d17b4ba7c76bfe294069f6769c0cf3946d40",
+      "publishedAt": "2022-12-19T13:16:15Z",
+      "content": "Twitter CEO Elon Musk said he has no successor ready to lead his social media platform if he exits his leadership position atop the company.\r\nMr. Musk said Sunday he would abide by the results of a T… [+2245 chars]"
+    },
+  {
+  "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "nytimes.com",
+      "title": "Tesla’s Direct Sales Model Helps It Thwart Customer Lawsuits",
+      "description": "Tesla is able to use arbitration more widely than its rivals because it sells cars directly to buyers. As a subscriber, you have 10 gift articles to give each month. Anyone can read what you share. Sales contracts prevent buyers of the company’s electric cars…",
+      "url": "https://biztoc.com/x/6cae3d62094e90de",
+      "urlToImage": "https://c.biztoc.com/p/6cae3d62094e90de/og.webp",
+      "publishedAt": "2022-12-19T13:16:13Z",
+      "content": "Tesla is able to use arbitration more widely than its rivals because it sells cars directly to buyers.\r\nAs a subscriber, you have 10 gift articles to give each month. Anyone can read what you share.\r… [+470 chars]"
+    },
+  {
+  "source": {
+        "id": null,
+        "name": "Seeking Alpha"
+      },
+      "author": "Brian Stewart",
+      "title": "5 stocks to watch on Monday: Tesla, Activision Blizzard and more",
+      "description": "Tesla (TSLA), Activision Blizzard (ATVI), Aerojet (AJRD), HEICO Corp. (HEI) and Steelcase (SCS) are among the stocks to watch on Monday.",
+      "url": "https://seekingalpha.com/news/3918363-5-stocks-to-watch-on-monday-tesla-activision-blizzard-and-more",
+      "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/187005526/image_187005526.jpg?io=getty-c-w1280",
+      "publishedAt": "2022-12-19T13:14:05Z",
+      "content": "Stocks looked poised to start Monday's trading with an advance, as Wall Street looks to bounce back from recent weakness. Concerns about interest rates and a possible recession have put pressure on t… [+1907 chars]"
+    },
+  {
+  "source": {
+        "id": null,
+        "name": "Raw Story"
+      },
+      "author": "Tom Boggioni",
+      "title": "Jan. 6 hearings prove Trump's 'culpability' for riot was 'through the roof': legal expert",
+      "description": "During an appearance on \"CNN This Morning,\" the former Asst. Attorney General under President George H.W. Bush bluntly stated that he has seen enough evidence to indict former president Donald Trump for his actions on Jan. 6.Just hours before the House select…",
+      "url": "https://www.rawstory.com/donald-trump-jan-6-2658982491/",
+      "urlToImage": "https://www.rawstory.com/media-library/these-vip-rioters-went-straight-to-one-of-the-most-violent-flashpoint-at-the-capitol-the-assault-on-officer-fanone.png?id=27275774&width=1200&height=600&coordinates=0%2C25%2C0%2C26",
+      "publishedAt": "2022-12-19T13:13:56Z",
+      "content": "He took over Twitter on October 27 and has repeatedly courted controversy, sacking half of its staff, readmitting far-right figures to the platform, banning journalists and trying to charge for previ… [+2883 chars]"
+    },
+  {
+  "source": {
+        "id": null,
+        "name": "Raw Story"
+      },
+      "author": "Agence France-Presse",
+      "title": "Millions of users vote in Twitter poll to axe Elon Musk as platform CEO",
+      "description": "Twitter users voted on Monday to oust controversial owner Elon Musk as CEO in a poll he organized and promised to honor, just weeks after he took charge of the social media giant.A total of 57.5 percent of more than 17 million accounts voted for him to step d…",
+      "url": "https://www.rawstory.com/millions-of-users-vote-in-twitter-poll-to-axe-elon-musk-as-platform-ceo/",
+      "urlToImage": "https://www.rawstory.com/media-library/elon-musk.jpg?id=30132277&width=1200&height=600&coordinates=0%2C70%2C0%2C70",
+      "publishedAt": "2022-12-19T13:12:39Z",
+      "content": "Twitter users voted on Monday to oust controversial owner Elon Musk as CEO in a poll he organized and promised to honor, just weeks after he took charge of the social media giant.\r\nA total of 57.5 pe… [+3243 chars]"
+    },
+  {
+  "source": {
+        "id": null,
+        "name": "Republic World"
+      },
+      "author": "Deeksha Sharma",
+      "title": "Result is out for Musks Twitter poll on stepping down as CEO, but is Chief Twit ready?",
+      "description": "Users of Twitter are closely eyeing the official account of Elon Musk, now that a crucial poll uploaded by the billionaire has reached its final outcome.",
+      "url": "https://www.republicworld.com/technology-news/social-media-news/result-is-out-for-musks-twitter-poll-on-stepping-down-as-ceo-but-is-chief-twit-ready-articleshow.html",
+      "urlToImage": "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/ifzv9nt0yw8orbox_1671454663.jpeg",
+      "publishedAt": "2022-12-19T13:12:00Z",
+      "content": "Users on the social networking platform Twitter were closely eyeing the official account of Tesla CEO Elon Musk as a crucial poll uploaded by the billionaire has reached its final outcome. Earlier on… [+1740 chars]"
+    },
+  {
+  "source": {
+        "id": "breitbart-news",
+        "name": "Breitbart News"
+      },
+      "author": "Lucas Nolan, Lucas Nolan",
+      "title": "Elon Musk Loses Poll to Remain Boss of Twitter",
+      "description": "Shortly after facing major backlash over the introduction of a new policy that would see links to outside social media platforms banned on Twitter, Elon Musk posted a poll asking users to vote on whether he should continue as CEO. 57 percent of respondents vo…",
+      "url": "https://www.breitbart.com/tech/2022/12/19/elon-musk-loses-poll-to-remain-boss-of-twitter/",
+      "urlToImage": "https://media.breitbart.com/media/2022/04/elon-musk-twitter-blue-birds-640x480-getty-640x335.jpg",
+      "publishedAt": "2022-12-19T13:12:00Z",
+      "content": "Shortly after facing major backlash over the introduction of a new policy that would see links to outside social media platforms banned on Twitter, Elon Musk posted a poll asking users to vote on whe… [+3564 chars]"
+    },
+  {
+  "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "BBC",
+      "title": "Elon Musk: Twitter users vote in favour of boss resigning",
+      "description": "Some 57.5% of users voted \"yes\" when Elon Musk asked them if he should quit as Twitter's chief executive.",
+      "url": "https://ca.sports.yahoo.com/news/twitter-stop-users-linking-big-211502355.html",
+      "urlToImage": "https://media.zenfs.com/en/bbc_us_articles_995/76658e14966ed8800aae2d5cfdfddf56",
+      "publishedAt": "2022-12-19T13:11:05Z",
+      "content": "Twitter users have voted in favour of Elon Musk stepping down as the platform's chief executive after the billionaire ran a poll on his future.\r\nA total of 57.5% voted \"yes\" after Mr Musk asked his 1… [+5454 chars]"
+    },
+  {
+  "source": {
+        "id": null,
+        "name": "Marketscreener.com"
+      },
+      "author": "MarketScreener",
+      "title": "Elon Musk's Twitter polls - from stake sales to CEO decisions",
+      "description": "(marketscreener.com) A majority of Twitter users voted for\nbillionaire Elon Musk to step down as the chief executive of the\nsocial media firm after he started a poll on Sunday evening, the\nlatest twist in a chaotic reign following his $44 billion\ntakeover.\n T…",
+      "url": "https://www.marketscreener.com/quote/stock/TESLA-INC-6344549/news/Elon-Musk-s-Twitter-polls-from-stake-sales-to-CEO-decisions-42578581/?utm_medium=RSS&utm_content=20221219",
+      "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+      "publishedAt": "2022-12-19T13:10:17Z",
+      "content": "Dec 19 (Reuters) - A majority of Twitter users voted for\r\nbillionaire Elon Musk to step down as the chief executive of the\r\nsocial media firm after he started a poll on Sunday evening, the\r\nlatest tw… [+2090 chars]"
+    },
+  {
+  "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "John Dorfman, Contributor, \n John Dorfman, Contributor\n https://www.forbes.com/sites/johndorfman/",
+      "title": "The Market’s 5 Biggest Disasters In 2022",
+      "description": "Among all stocks with a market value of $5 billion or more, these stocks down the most through December 16, Some of them are buys.",
+      "url": "https://www.forbes.com/sites/johndorfman/2022/12/19/coinbase-snap-markets-5-biggest-disasters-in-2022/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/63a00157a6b7531ba28cea81/0x0.jpg?format=jpg&width=1200",
+      "publishedAt": "2022-12-19T13:08:02Z",
+      "content": "Coinbase leads the list of this years list of stock-market disasters. (Photo by Chesnot)\r\nGetty Images\r\nCoinbaseCOIN\r\n leads the list of this years list of stock-market disasters. Here are the stocks… [+4298 chars]"
+    },
+  {
+  "source": {
+        "id": null,
+        "name": "24/7 Wall St."
+      },
+      "author": "Paul Ausick",
+      "title": "First Look Analysts Research Calls for Monday, December 19",
+      "description": "This report was sent to Briefing.com subscribers earlier today.  Upgrades: > American Equity Investment Life (AEL) upgraded to Strong Buy from Outperform at Raymond James; tgt $48 > Enphase Energy (ENPH) upgraded to Outperform from Market Perform at Northland…",
+      "url": "https://247wallst.com/investing/2022/12/19/first-look-analysts-research-calls-for-monday-december-19/",
+      "urlToImage": "https://247wallst.com/wp-content/uploads/2021/12/imageForEntry57-CBw.jpg",
+      "publishedAt": "2022-12-19T13:07:48Z",
+      "content": "This report was sent to Briefing.com subscribers earlier today. \r\nUpgrades:\r\n&gt; American Equity Investment Life (AEL) upgraded to Strong Buy from Outperform at Raymond James; tgt $48\r\n&gt; Enphase … [+3111 chars]"
+    }
+  ]
+}
