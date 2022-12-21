@@ -1,0 +1,18 @@
+.root{
+    position: absolute;
+}
+.spinner{
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    min-height: 500px;
+    position: fixed;
+    z-index: 99999999;
+}
+.spinner img{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
