@@ -1,9 +1,10 @@
 import React, { Component } from 'react'
+import PropTypes from 'prop-types';
 import NewsItems from './NewsItems'
 import Spinner from './Spinner';
 
+
 export default class News extends Component {
-  
   constructor() {
     super();
     this.pageSize = 12;
@@ -15,8 +16,19 @@ export default class News extends Component {
     }
   }
 
+  static propTypes = {
+    category: PropTypes.string,
+    country: PropTypes.string,
+  };
+
+  static defaultProps = {
+    category: "business",
+    country: "in",
+  };
+  
+
   async fetchData(page){
-    let url = `https://newsapi.org/v2/top-headlines?country=in&category=business&apiKey=ecf49a858023457ca2baee9120a09dbb&pageSize=${this.pageSize}&page=${page}`;
+    let url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=ecf49a858023457ca2baee9120a09dbb&pageSize=${this.pageSize}&page=${page}`;
     this.setState({loading: true});
     let data = await fetch(url);
     let parseData = await data.json();
@@ -43,7 +55,7 @@ export default class News extends Component {
     return (
       <>
         <div className='container my-3'>
-          <h1 className='my-3 text-center'>NewsMonkey - Top Headlines</h1>
+          <h1 className='text-center' style={{margin: "40px 0"}}>NewsMonkey - Top Headlines</h1>
           {this.state.loading && <Spinner />}
           <div className="row" style={this.state.loading ? {opacity: '0.5'} : {}}>
             {this.state.article?.map((element)=>{
