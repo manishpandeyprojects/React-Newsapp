@@ -32,7 +32,7 @@ export default class News extends Component {
     this.setState({loading: true});
     let data = await fetch(url);
     let parseData = await data.json();
-    this.setState({article: parseData.articles, totalPage: Math.ceil(parseData.totalResults/this.pageSize), loading: false});
+    this.setState({article: parseData.articles, totalPage: Math.ceil(parseData.totalResults/this.pageSize), totalResults:parseData.totalResults,  loading: false});
   }
 
   async componentDidMount(){
@@ -55,12 +55,14 @@ export default class News extends Component {
     return (
       <>
         <div className='container my-3'>
-          <h1 className='text-center' style={{margin: "40px 0"}}>NewsMonkey - Top Headlines</h1>
+          <h1 className='text-center' style={{margin: "40px 0"}}>NewsMonkey - Top Headlines from 
+          <span style={{textTransform: "capitalize"}}> {this.props.category}</span></h1>
           {this.state.loading && <Spinner />}
+          <p>Total news: {this.state.totalResults} | Display: {(this.state.page*this.pageSize-this.pageSize+1)} to {this.state.page*this.pageSize} </p>
           <div className="row" style={this.state.loading ? {opacity: '0.5'} : {}}>
             {this.state.article?.map((element)=>{
             return <div className="col-md-4 my-2" key={element.url}>
-              <NewsItems title={element.title?element.title.slice(0, 72):""} description={element.description?element.description.slice(0, 148):""} imageUrl={element.urlToImage?element.urlToImage:"https://cdn.zeebiz.com/sites/default/files/2022/12/20/217009-m4-freepik.jpg"} newsUrl={element.url?element.url:""} />
+              <NewsItems title={element.title?element.title.slice(0, 72):""} description={element.description?element.description.slice(0, 148):""} imageUrl={element.urlToImage?element.urlToImage:"https://cdn.zeebiz.com/sites/default/files/2022/12/20/217009-m4-freepik.jpg"} newsUrl={element.url?element.url:""} author={element.author?element.author:"Unknown"} date={element.publishedAt} source={element.source.name} />
             </div>
             })}
           </div>
