@@ -5,7 +5,7 @@ export default class Spinner extends Component {
 
   render() {
     return (
-      <div className='d-flex justify-content-center spinner'> 
+      <div className={this.props.className}> 
         <img src={loading} alt="Loader" width="50" height="50" />
       </div>
     )
