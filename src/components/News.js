@@ -15,6 +15,7 @@ export default class News extends Component {
       page: 1,
       totalPage: 1,
       totalResults: 0,
+      error: false
     }
     document.title = `NewsMonkey - ${this.capitalizeFirstLetter(this.props.category)}`;
   }
@@ -34,11 +35,15 @@ export default class News extends Component {
   }
 
   async fetchData() {
-    let url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=ecf49a858023457ca2baee9120a09dbb&pageSize=${this.pageSize}&page=${this.state.page}`;
+    let url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=${this.props.apiKey}&pageSize=${this.pageSize}&page=${this.state.page}`;
     this.setState({ loading: true });
     let data = await fetch(url);
     let parseData = await data.json();
-    this.setState({ article: parseData.articles, totalPage: Math.ceil(parseData.totalResults / this.pageSize), totalResults: parseData.totalResults, loading: false, page: this.state.page + 1 });
+    if(parseData.status === "error"){
+      this.setState({error: true});
+    }else{
+      this.setState({ article: parseData.articles, totalPage: Math.ceil(parseData.totalResults / this.pageSize), totalResults: parseData.totalResults, loading: false, page: this.state.page + 1 });
+    }
   }
 
   async componentDidMount() {
@@ -46,7 +51,7 @@ export default class News extends Component {
   }
 
   fetchMoreData = async () => {
-    let url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=ecf49a858023457ca2baee9120a09dbb&pageSize=${this.pageSize}&page=${this.state.page}`;
+    let url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=${this.props.apiKey}&pageSize=${this.pageSize}&page=${this.state.page}`;
     console.log(url)
     let data = await fetch(url);
     let parseData = await data.json();
@@ -60,20 +65,17 @@ export default class News extends Component {
     return (
       <>
         <div className='container my-3'>
-          <h1 className='text-center' style={{ margin: "40px 0" }}>NewsMonkey - Top {this.capitalizeFirstLetter(this.props.category)} Headlines</h1>
+          <h1 className='text-center' style={{ margin: "40px 0" }}>{this.state.error?"To many request for today.. Api is not working currently Please check later.": `NewsMonkey - Top ${this.capitalizeFirstLetter(this.props.category)} Headlines`}  </h1>
           {this.state.loading && <Spinner className="spinner text-center my-3" />}
         </div>
 
-        {console.log("totalResults " + this.state.totalResults)}
-        {console.log("article " + this.state.article.length)}
         <InfiniteScroll
           dataLength={this.state.article.length}
           next={this.fetchMoreData}
           hasMore={this.state.article.length !== this.state.totalResults}
           loader={<Spinner className="text-center my-3" />}
         >
-          <div className='container'>
-        
+          {!this.state.error && <div className='container'>
             <div className="row" style={this.state.loading ? { opacity: '0.5' } : {}}>
               {this.state.article?.map((element, index) => {
                 return <div className="col-md-4 my-2" key={index}>
@@ -81,7 +83,7 @@ export default class News extends Component {
                 </div>
               })}
             </div>
-          </div>
+          </div>}
         </InfiniteScroll>
       </>
     )
