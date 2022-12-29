@@ -42,7 +42,7 @@ export default class News extends Component {
     if(parseData.status === "error"){
       this.setState({error: true});
     }else{
-      this.setState({ article: parseData.articles, totalPage: Math.ceil(parseData.totalResults / this.pageSize), totalResults: parseData.totalResults, loading: false, page: this.state.page + 1 });
+      this.setState({ article: parseData.articles, totalPage: Math.ceil(parseData.totalResults / this.pageSize), totalResults: parseData.totalResults, loading: false });
     }
   }
 
@@ -51,11 +51,9 @@ export default class News extends Component {
   }
 
   fetchMoreData = async () => {
-    let url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=${this.props.apiKey}&pageSize=${this.pageSize}&page=${this.state.page}`;
-    console.log(url)
+    let url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=${this.props.apiKey}&pageSize=${this.pageSize}&page=${this.state.page + 1}`;
     let data = await fetch(url);
     let parseData = await data.json();
-    console.log(parseData.articles)
     this.setState({ article: this.state.article.concat(parseData.articles) });
     this.setState({ page: this.state.page + 1 });
   };
