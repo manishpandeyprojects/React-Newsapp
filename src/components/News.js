@@ -15,8 +15,7 @@ export default class News extends Component {
       page: 1,
       totalPage: 1,
       totalResults: 0,
-      error: false,
-      hasMore: false
+      error: false
     }
     document.title = `NewsMonkey - ${this.capitalizeFirstLetter(this.props.category)}`;
   }
@@ -43,7 +42,7 @@ export default class News extends Component {
     if(parseData.status === "error"){
       this.setState({error: true});
     }else{
-      this.setState({ article: parseData.articles, totalPage: Math.ceil(parseData.totalResults / this.pageSize), totalResults: parseData.totalResults, loading: false, hasMore: true });
+      this.setState({ article: parseData.articles, totalPage: Math.ceil(parseData.totalResults / this.pageSize), totalResults: parseData.totalResults, loading: false });
     }
   }
 
@@ -52,17 +51,11 @@ export default class News extends Component {
   }
 
   fetchMoreData = async () => {
-    if(this.state.article.length === this.state.totalResults){
-      this.setState({hasMore: false});
-    }else{
-      this.setState({ page: this.state.page + 1 });
-      let url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=${this.props.apiKey}&pageSize=${this.pageSize}&page=${this.state.page}`;
-      console.log(url)
-      let data = await fetch(url);
-      let parseData = await data.json();
-      console.log(parseData.articles)
-      this.setState({ article: this.state.article.concat(parseData.articles), hasMore: true }); 
-    }
+    let url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=${this.props.apiKey}&pageSize=${this.pageSize}&page=${this.state.page + 1}`;
+    let data = await fetch(url);
+    let parseData = await data.json();
+    this.setState({ article: this.state.article.concat(parseData.articles) });
+    this.setState({ page: this.state.page + 1 });
   };
 
 
@@ -73,12 +66,11 @@ export default class News extends Component {
           <h1 className='text-center' style={{ margin: "40px 0" }}>{this.state.error?"To many request for today.. Api is not working currently Please check later.": `NewsMonkey - Top ${this.capitalizeFirstLetter(this.props.category)} Headlines`}  </h1>
           {this.state.loading && <Spinner className="spinner text-center my-3" />}
         </div>
-        {console.log("Article " + this.state.article.length)}
-        {console.log("totalResults " + this.state.totalResults)}
+
         <InfiniteScroll
           dataLength={this.state.article.length}
           next={this.fetchMoreData}
-          hasMore={this.state.article.length === this.state.totalResults}
+          hasMore={this.state.article.length !== this.state.totalResults}
           loader={<Spinner className="text-center my-3" />}
         >
           {!this.state.error && <div className='container'>
