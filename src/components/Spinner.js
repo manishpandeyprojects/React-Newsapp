@@ -1,13 +1,12 @@
-import React, { Component } from 'react';
+import React from 'react';
 import loading from './ajax-loader.gif'
 
-export default class Spinner extends Component {
-
-  render() {
-    return (
-      <div className={this.props.className}> 
-        <img src={loading} alt="Loader" width="50" height="50" />
-      </div>
-    )
-  }
+const Spinner = (props)=> {
+  return (
+    <div className={props.className}> 
+      <img src={loading} alt="Loader" width="50" height="50" />
+    </div>
+  )
 }
+
+export default Spinner;
