@@ -17,15 +17,18 @@ export default function News(props) {
 
   
 
-  const capitalizeFirstLetter = (string) => {
+  const capitalizeFirstLetter = (string)=> {
     return string.charAt(0).toUpperCase() + string.slice(1);
   }
 
-  async function fetchData() {
+  const fetchData = async () => {
+    props.setProgress(10);
     let url = `https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=${props.apiKey}&pageSize=${pageSize}&page=${page}`;
     setLoading(true);
     let data = await fetch(url);
+    props.setProgress(30);
     let parseData = await data.json();
+    props.setProgress(60);
     if(parseData.status === "error"){
       setError(true);
     }else{
@@ -33,11 +36,14 @@ export default function News(props) {
       setTotalResults(parseData.totalResults);
       setLoading(false);
     }
+    props.setProgress(100);
   }
-
+  
   useEffect(() => {
-    fetchData();
-  });
+    document.title = `${capitalizeFirstLetter(props.category)} - NewsMonkey`;
+    fetchData(); 
+    // eslint-disable-next-line
+  }, [])
 
   const fetchMoreData = async () => {
     let url = `https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=${props.apiKey}&pageSize=${pageSize}&page=${page + 1}`;
@@ -50,7 +56,7 @@ export default function News(props) {
     return (
       <>
         <div className='container my-3'>
-          <h1 className='text-center' style={{ margin: "40px 0" }}>{error?"To many request for today.. Api is not working currently Please check later.": `NewsMonkey - Top ${capitalizeFirstLetter(props.category)} Headlines`}  </h1>
+          <h1 className='text-center' style={{ margin: "90px 0 40px" }}>{error?"To many request for today.. Api is not working currently Please check later.": `NewsMonkey - Top ${capitalizeFirstLetter(props.category)} Headlines`}  </h1>
           {loading && <Spinner className="spinner text-center my-3" />}
         </div>
 
